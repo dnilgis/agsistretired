@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-23T05:52:53.020Z",
+  "updated": "2026-02-23T07:02:28.342Z",
   "totalMarkets": 6,
   "categories": {
     "tariffs": [
@@ -39,15 +39,15 @@
         "id": "0x6beb95a01147de25b24d3ffae7a43551f392da4235a62f058515c3e99d7af199",
         "question": "NATO/EU troops fighting in Ukraine in June 30, 2026?",
         "pct": 2,
-        "volume": 61625,
+        "volume": 61645,
         "endDate": "2025-12-31T12:00:00Z",
         "slug": "natoeu-troops-fighting-in-ukraine-in-2025"
       },
       {
         "id": "0x1ec6f87bc7d6d0976bbaee5883577bc51be4ba5ef7c0127ccd96e9d64136df40",
         "question": "Will the next UK election be called by June 30, 2026?",
-        "pct": 16,
-        "volume": 5022,
+        "pct": 17,
+        "volume": 5031,
         "endDate": "2026-06-30T12:00:00Z",
         "slug": "uk-election-called-by"
       }
