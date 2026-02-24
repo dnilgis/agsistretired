@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-24T18:59:55.454Z",
+  "updated": "2026-02-24T19:51:38.932Z",
   "totalMarkets": 6,
   "categories": {
     "tariffs": [
@@ -15,14 +15,14 @@
         "id": "0xda5c517dd5b78c80dec8ceb08ca4f466317633487827d7290332b4851cc4a4fa",
         "question": "Macron out by June 30, 2026?",
         "pct": 4,
-        "volume": 233546,
+        "volume": 233550,
         "endDate": "2026-06-30T12:00:00Z",
         "slug": "macron-out-in-2025"
       },
       {
         "id": "0xced0cb8725bad43d78fda0cd0e5fa9e31804625cb3502b2c7897f8e8f7fa9e1f",
         "question": "Kraken IPO by December 31, 2026?",
-        "pct": 75,
+        "pct": 77,
         "volume": 218217,
         "endDate": "2027-01-01T05:00:00Z",
         "slug": "kraken-ipo-in-2025"
@@ -31,7 +31,7 @@
         "id": "0x6e6851f2698629795fa06869d961c986221a80cedcba10fbaf0ed220607cdada",
         "question": "China x India military clash by December 31, 2026?",
         "pct": 13,
-        "volume": 82296,
+        "volume": 82300,
         "endDate": "2026-12-31T12:00:00Z",
         "slug": "china-x-india-military-clash-by-december-31"
       },
@@ -47,7 +47,7 @@
         "id": "0x1ec6f87bc7d6d0976bbaee5883577bc51be4ba5ef7c0127ccd96e9d64136df40",
         "question": "Will the next UK election be called by June 30, 2026?",
         "pct": 11,
-        "volume": 5225,
+        "volume": 5237,
         "endDate": "2026-06-30T12:00:00Z",
         "slug": "uk-election-called-by"
       }
