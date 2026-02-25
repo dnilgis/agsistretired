@@ -1,6 +1,20 @@
 {
   "items": [
     {
+      "id": "2a8d243a4441bc9b",
+      "title": "Illinois Product Expo Returns to First Weekend in March",
+      "link": "https://www.morningagclips.com/illinois-product-expo-returns-to-first-weekend-in-march/",
+      "description": "SPRINGFIELD, Ill. &#8212; The Illinois Department of Agriculture (IDOA) announces a new location for the return of the Illinois Product Expo, taking place Saturday, March 7, and Sunday, March 8. The popular event has outgrown the Orr Building and is moving to the Expo Building at the Illinois State Fairgrounds. For 27 years, the Illinois [&#8230;] The post Illinois Product Expo Returns to First Weekend in March appeared first on Morning Ag Clips.",
+      "date": "Wed, 25 Feb 2026 06:32:52 +0000",
+      "timestamp": 1772001172000,
+      "source": "Morning Ag Clips",
+      "category": "industry",
+      "icon": "📰",
+      "thumbnail": "",
+      "summary": "The Illinois Product Expo, a premier showcase for Illinois-made food products, is returning to the first weekend in March 2026. The event, which has been running for 27 years, is moving to a larger venue, the Expo Building at the Illinois State Fairgrounds, to accommodate a record number of over 100 vendors. \n\nThe expo will take place on Saturday, March 7 (10 a.m. – 5 p.m.) and Sunday, March 8 (10 a.m. – 3 p.m.). Admission is $5 per person, with free entry for children 10 and under, veterans, military, teachers, and first responders.\n\nFeatured vendors include The Homestead Bakery, ReMARKable Caramels, Rolling Lawns Farm, Luka Popcorn, Siddity Pig Pork Snacks, Phoenix Bean, Turasky Meats, Engrained Brewing Company, and 17th Street BBQ, among many others. The Illinois Wine Experience will also showcase 14 wineries from across the state.\n\nThe event is sponsored by the Illinois Department of Agriculture, Illinois Farm Bureau, Hy-Vee, Illinois Wine, Harvest Market, FFA, Prairie Farms, and Turasky Meats. Attendees can take advantage of the $5 for 5 promotion, where they can purchase five products and receive $5 in Expo Cash as a thank you for supporting Illinois agriculture.\n\nFor Illinois food companies interested in participating, they can contact the Illinois Department of Agriculture Bureau of Marketing, Promotion and Grants at 217-782-2581 or agr.illinoisproduct@illinois.gov.",
+      "summaryTimestamp": 1772002652899
+    },
+    {
       "id": "68aff502b45b5ac1",
       "title": "Prioritizing protection",
       "link": "https://www.brownfieldagnews.com/managing-for_profit/prioritizing-protection/",
@@ -167,20 +181,6 @@
       "thumbnail": "",
       "summary": "Genomic selection allows breeders to quickly predict which young trees are most likely to be blight-resistant, without having to wait years to see how they perform.\n\nThe research, published in Science, shows it is possible to identify blight-resistant trees that are still mostly American chestnut, preserving the height, growth, and forest competitiveness that made the species so important. By pairing field trials with genome sequencing, researchers have created a roadmap to restore the American chestnut more efficiently and at a larger scale.\n\nKey details:\n- Researchers analyzed thousands of chestnut trees bred by The American Chestnut Foundation, sequencing their genomes and comparing to real-world disease outcomes.\n- They found resistance can be predicted using DNA data alone, through an approach called genomic selection.\n- The next generation of trees is expected to have 75% American chestnut ancestry and twice the average blight resistance of the current population, allowing them to compete in forests.\n- Researchers also examined rare wild American chestnuts that have survived infection, but found their resistance is limited and inconsistent.\n- Resistance involves many genes across the genome, not a single gene, explaining why it has been difficult to breed using traditional methods.\n\nThe findings provide a scientific foundation to scale up American chestnut restoration efforts. Genomic selection allows breeders to move faster, maintain diversity, and focus on trees suited for forest life. Researchers say the tools are now in place to make meaningful progress within a generation.",
       "summaryTimestamp": 1771984247168
-    },
-    {
-      "id": "cda1a8365d7c0626",
-      "title": "McLean County 4-H PowerSurge Teams Earn Top Honors at Illinois FIRST LEGO League State Tournament",
-      "link": "https://www.morningagclips.com/mclean-county-4-h-powersurge-teams-earn-top-honors-at-illinois-first-lego-league-state-tournament/",
-      "description": "BLOOMINGTON, Ill. &#8212; Youth from McLean County 4-H are celebrating continued success after standout performances at the Illinois FIRST LEGO League State Tournament. Following a season that advanced two teams—Blast and Storm—to state competition, both PowerSurge teams brought home major honors and earned an invitation to Internationals, marking an exciting milestone for the local robotics program. Team Blast received [&#8230;] The post McLean County 4-H PowerSurge Teams Earn Top Honors at Ill",
-      "date": "Tue, 24 Feb 2026 22:28:33 +0000",
-      "timestamp": 1771972113000,
-      "source": "Morning Ag Clips",
-      "category": "industry",
-      "icon": "📰",
-      "thumbnail": "",
-      "summary": "Team Blast received the Engineering Excellence Award, recognizing their efficient robot design, effective project solution, and strong teamwork. Team Storm earned the Innovation Award - 1st Place, for their research into real-world problems, creative solutions, and clear communication.\n\nThis achievement marks an exciting milestone for the local 4-H robotics program, as both teams earned an invitation to compete internationally. Myla Munro, McLean County 4-H Youth Development Educator, praised the youth's \"curiosity, determination, and collaboration\" developed through 4-H's hands-on learning and mentorship.\n\nThe PowerSurge Robotics SPIN Club season continues as the teams prepare for international competition opportunities. This success builds on a year defined by \"discovery, creativity, and achievement\" for the 4-H members.\n\nThe article was published on February 24, 2026. It was published by Morning Ag Clips and covered the Illinois FIRST LEGO League State Tournament results for the McLean County 4-H PowerSurge teams.",
-      "summaryTimestamp": 1771972170113
     },
     {
       "id": "afb54fea06514634",
@@ -1327,6 +1327,6 @@
   },
   "feedCount": 26,
   "successCount": 95,
-  "summariesGenerated": 10,
-  "updated": "2026-02-25T04:17:33.934Z"
+  "summariesGenerated": 1,
+  "updated": "2026-02-25T06:57:33.099Z"
 }
