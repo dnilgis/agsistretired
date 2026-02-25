@@ -1,10 +1,10 @@
 {
-  "generated": "2026-02-25T20:36:03.105184+00:00",
+  "generated": "2026-02-25T22:33:58.307647+00:00",
   "sources": [
     "farmbucks.com"
   ],
-  "locationCount": 65,
-  "bidCount": 127,
+  "locationCount": 67,
+  "bidCount": 126,
   "elevators": [
     {
       "elevator": "Nexus Cooperative",
@@ -16,7 +16,7 @@
       "lng": null,
       "bids": {
         "corn": {
-          "cashPrice": 4.01,
+          "cashPrice": 4.04,
           "delivery": "February 2026"
         },
         "soy": {
@@ -35,8 +35,8 @@
       "lng": -96.057744,
       "bids": {
         "soy": {
-          "cashPrice": 11.08,
-          "delivery": "March 2026"
+          "cashPrice": 11.15,
+          "delivery": "February 2026"
         }
       }
     },
@@ -50,7 +50,7 @@
       "lng": -92.713925,
       "bids": {
         "corn": {
-          "cashPrice": 4.09,
+          "cashPrice": 4.1,
           "delivery": "February 2026"
         },
         "soy": {
@@ -75,6 +75,21 @@
       }
     },
     {
+      "elevator": "Al-Corn Clean Fuel",
+      "city": "Al-Corn",
+      "state": "MN",
+      "type": "ethanol",
+      "source": "farmbucks",
+      "lat": 44.048794,
+      "lng": -93.017225,
+      "bids": {
+        "corn": {
+          "cashPrice": 4.07,
+          "delivery": "February 2026"
+        }
+      }
+    },
+    {
       "elevator": "Nexus Cooperative",
       "city": "Alden",
       "state": "MN",
@@ -84,7 +99,7 @@
       "lng": -93.57838,
       "bids": {
         "corn": {
-          "cashPrice": 3.86,
+          "cashPrice": 3.89,
           "delivery": "February 2026"
         },
         "soy": {
@@ -133,7 +148,7 @@
       "lng": -93.049212,
       "bids": {
         "corn": {
-          "cashPrice": 3.86,
+          "cashPrice": 4.14,
           "delivery": "February 2026"
         },
         "soy": {
@@ -189,10 +204,6 @@
       "lat": 43.745321,
       "lng": -92.869324,
       "bids": {
-        "corn": {
-          "cashPrice": 4.06,
-          "delivery": "February 2026"
-        },
         "soy": {
           "cashPrice": 10.68,
           "delivery": "February 2026"
@@ -246,10 +257,6 @@
       "lat": 43.615421,
       "lng": -93.530619,
       "bids": {
-        "corn": {
-          "cashPrice": 4.13,
-          "delivery": "February 2026"
-        },
         "soy": {
           "cashPrice": 10.78,
           "delivery": "February 2026"
@@ -338,7 +345,7 @@
       "lng": -93.490911,
       "bids": {
         "corn": {
-          "cashPrice": 4.16,
+          "cashPrice": 4.15,
           "delivery": "February 2026"
         },
         "soy": {
@@ -374,6 +381,21 @@
         "corn": {
           "cashPrice": 3.93,
           "delivery": "March 2026"
+        }
+      }
+    },
+    {
+      "elevator": "Al-Corn Clean Fuel",
+      "city": "Hcp",
+      "state": "MN",
+      "type": "ethanol",
+      "source": "farmbucks",
+      "lat": 44.541828,
+      "lng": -94.345543,
+      "bids": {
+        "corn": {
+          "cashPrice": 3.92,
+          "delivery": "February 2026"
         }
       }
     },
@@ -444,7 +466,7 @@
       "lng": -92.972849,
       "bids": {
         "corn": {
-          "cashPrice": 3.89,
+          "cashPrice": 3.93,
           "delivery": "February 2026"
         },
         "soy": {
@@ -463,7 +485,7 @@
       "lng": -92.503461,
       "bids": {
         "corn": {
-          "cashPrice": 4.09,
+          "cashPrice": 4.1,
           "delivery": "February 2026"
         },
         "soy": {
@@ -482,7 +504,7 @@
       "lng": -93.062444,
       "bids": {
         "corn": {
-          "cashPrice": 4.06,
+          "cashPrice": 4.09,
           "delivery": "February 2026"
         },
         "soy": {
@@ -596,7 +618,7 @@
       "lng": -93.087267,
       "bids": {
         "corn": {
-          "cashPrice": 4.06,
+          "cashPrice": 4.09,
           "delivery": "February 2026"
         },
         "soy": {
@@ -686,10 +708,6 @@
       "lat": 43.603111,
       "lng": -92.831246,
       "bids": {
-        "corn": {
-          "cashPrice": 4.03,
-          "delivery": "February 2026"
-        },
         "soy": {
           "cashPrice": 10.93,
           "delivery": "February 2026"
