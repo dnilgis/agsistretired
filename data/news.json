@@ -683,8 +683,8 @@
       "category": "industry",
       "icon": "🌾",
       "thumbnail": "",
-      "summary": "S. Supreme Court struck down President Trump's global tariffs in a 6-3 ruling on February 20, 2026. Agricultural groups responded with cautious relief, stating the tariffs have hurt farmers already struggling with record-high supply costs. \n\nThe American Farm Bureau Federation urged President Trump to avoid imposing any new tariffs on agricultural inputs, as this would further increase costs for farmers. The court ruled the tariffs exceeded the president's powers under the 1977 International Emergency Economic Powers Act.\n\nLast year, Trump had claimed drug trafficking and trade deficits posed national security threats, but the court said no president has used this law to impose tariffs of this \"magnitude and scope.\" Trump immediately announced a new 10% global tariff, which he said he'd raise to 15%, through a different law never used before.\n\nRepublican Senator Bernie Moreno called the ruling \"outrageous,\" saying the tariffs protected jobs and manufacturing. But farm groups like the American Soybean Association urged Trump to back down, as soybean and wheat growers have suffered from high input costs and low crop prices for years due to the tariffs.",
-      "summaryTimestamp": 1771916114676
+      "summary": "S. Supreme Court struck down President Trump's global tariffs in a 6-3 ruling on February 20, 2026. Agricultural groups responded with cautious relief, stating the tariffs had hurt farmers who were already struggling with record-high input costs. \n\nThe court ruled that the tariffs, which included a 10% \"reciprocal\" tariff on almost all countries, exceeded the powers given to the president by Congress. Trump had cited drug trafficking and trade deficits as national security threats to justify the tariffs, but the court said no president had used this law to impose tariffs \"of this magnitude and scope.\"\n\nIn response, Trump announced a new 10% global tariff under a different law that allows him to impose tariffs for 150 days without congressional approval. He later said he'd raise this to 15%. \n\nFarm groups, including the American Soybean Association and National Association of Wheat Growers, urged Trump to back down on the tariffs, which have driven up the costs of critical farming inputs like fertilizer, seeds, and equipment. Soybean and wheat farmers in particular have been hit hard by \"stubbornly high supply costs and low crop prices\" over the past three years.\n\nRepublican Senator Bernie Moreno of Ohio called the court ruling \"outrageous,\" saying the tariffs had protected jobs and manufacturing, but farm groups stated the tariffs were hurting American farmers and workers.",
+      "summaryTimestamp": 1772095283864
     },
     {
       "id": "51d2ab085c21f6c0",
@@ -1327,6 +1327,6 @@
   },
   "feedCount": 26,
   "successCount": 95,
-  "summariesGenerated": 7,
-  "updated": "2026-02-26T06:55:36.160Z"
+  "summariesGenerated": 1,
+  "updated": "2026-02-26T08:41:24.065Z"
 }
