@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-27T17:53:55.635Z",
+  "updated": "2026-02-27T18:40:35.258Z",
   "totalMarkets": 6,
   "categories": {
     "tariffs": [
@@ -7,15 +7,15 @@
         "id": "0x9b3c3177fe473124c756b01e123b4b03e3a99880844ed8dea21b0a7879ca04aa",
         "question": "Kraken IPO by March 31, 2026?",
         "pct": 11,
-        "volume": 319573,
+        "volume": 319633,
         "endDate": "2026-04-01T04:00:00Z",
         "slug": "kraken-ipo-in-2025"
       },
       {
         "id": "0xced0cb8725bad43d78fda0cd0e5fa9e31804625cb3502b2c7897f8e8f7fa9e1f",
         "question": "Kraken IPO by December 31, 2026?",
-        "pct": 73,
-        "volume": 234269,
+        "pct": 69,
+        "volume": 234577,
         "endDate": "2027-01-01T05:00:00Z",
         "slug": "kraken-ipo-in-2025"
       },
@@ -38,7 +38,7 @@
       {
         "id": "0x6beb95a01147de25b24d3ffae7a43551f392da4235a62f058515c3e99d7af199",
         "question": "NATO/EU troops fighting in Ukraine in June 30, 2026?",
-        "pct": 3,
+        "pct": 2,
         "volume": 63090,
         "endDate": "2025-12-31T12:00:00Z",
         "slug": "natoeu-troops-fighting-in-ukraine-in-2025"
@@ -46,7 +46,7 @@
       {
         "id": "0x1ec6f87bc7d6d0976bbaee5883577bc51be4ba5ef7c0127ccd96e9d64136df40",
         "question": "Will the next UK election be called by June 30, 2026?",
-        "pct": 15,
+        "pct": 14,
         "volume": 5408,
         "endDate": "2026-06-30T12:00:00Z",
         "slug": "uk-election-called-by"
