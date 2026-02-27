@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-27T14:58:36.867Z",
+  "updated": "2026-02-27T15:45:00.103Z",
   "totalMarkets": 6,
   "categories": {
     "tariffs": [
@@ -46,7 +46,7 @@
       {
         "id": "0x1ec6f87bc7d6d0976bbaee5883577bc51be4ba5ef7c0127ccd96e9d64136df40",
         "question": "Will the next UK election be called by June 30, 2026?",
-        "pct": 13,
+        "pct": 11,
         "volume": 5408,
         "endDate": "2026-06-30T12:00:00Z",
         "slug": "uk-election-called-by"
