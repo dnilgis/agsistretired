@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-27T17:03:21.859Z",
+  "updated": "2026-02-27T17:53:55.635Z",
   "totalMarkets": 6,
   "categories": {
     "tariffs": [
@@ -12,20 +12,20 @@
         "slug": "kraken-ipo-in-2025"
       },
       {
+        "id": "0xced0cb8725bad43d78fda0cd0e5fa9e31804625cb3502b2c7897f8e8f7fa9e1f",
+        "question": "Kraken IPO by December 31, 2026?",
+        "pct": 73,
+        "volume": 234269,
+        "endDate": "2027-01-01T05:00:00Z",
+        "slug": "kraken-ipo-in-2025"
+      },
+      {
         "id": "0xda5c517dd5b78c80dec8ceb08ca4f466317633487827d7290332b4851cc4a4fa",
         "question": "Macron out by June 30, 2026?",
         "pct": 3,
         "volume": 233896,
         "endDate": "2026-06-30T12:00:00Z",
         "slug": "macron-out-in-2025"
-      },
-      {
-        "id": "0xced0cb8725bad43d78fda0cd0e5fa9e31804625cb3502b2c7897f8e8f7fa9e1f",
-        "question": "Kraken IPO by December 31, 2026?",
-        "pct": 70,
-        "volume": 233658,
-        "endDate": "2027-01-01T05:00:00Z",
-        "slug": "kraken-ipo-in-2025"
       },
       {
         "id": "0x6e6851f2698629795fa06869d961c986221a80cedcba10fbaf0ed220607cdada",
@@ -38,7 +38,7 @@
       {
         "id": "0x6beb95a01147de25b24d3ffae7a43551f392da4235a62f058515c3e99d7af199",
         "question": "NATO/EU troops fighting in Ukraine in June 30, 2026?",
-        "pct": 2,
+        "pct": 3,
         "volume": 63090,
         "endDate": "2025-12-31T12:00:00Z",
         "slug": "natoeu-troops-fighting-in-ukraine-in-2025"
@@ -46,7 +46,7 @@
       {
         "id": "0x1ec6f87bc7d6d0976bbaee5883577bc51be4ba5ef7c0127ccd96e9d64136df40",
         "question": "Will the next UK election be called by June 30, 2026?",
-        "pct": 11,
+        "pct": 15,
         "volume": 5408,
         "endDate": "2026-06-30T12:00:00Z",
         "slug": "uk-election-called-by"
