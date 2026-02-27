@@ -1,10 +1,10 @@
 {
-  "generated": "2026-02-27T20:28:12.538459+00:00",
+  "generated": "2026-02-27T22:23:22.124624+00:00",
   "sources": [
     "farmbucks.com"
   ],
-  "locationCount": 67,
-  "bidCount": 126,
+  "locationCount": 66,
+  "bidCount": 125,
   "elevators": [
     {
       "elevator": "Nexus Cooperative",
@@ -749,21 +749,6 @@
         "soy": {
           "cashPrice": 10.71,
           "delivery": "February 2026"
-        }
-      }
-    },
-    {
-      "elevator": "Jennie-O",
-      "city": "Swanville Feed Mill",
-      "state": "MN",
-      "type": "processor",
-      "source": "farmbucks",
-      "lat": 45.914511,
-      "lng": -94.642216,
-      "bids": {
-        "corn": {
-          "cashPrice": 4.31,
-          "delivery": "February 2027"
         }
       }
     },
