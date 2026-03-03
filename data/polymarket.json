@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-03T20:35:27.143Z",
+  "updated": "2026-03-03T21:03:34.213Z",
   "totalMarkets": 8,
   "categories": {
     "tariffs": [
@@ -7,7 +7,7 @@
         "id": "0xbee2cd40473495f713c69b9dfbce9fc2837fa4011568222c83c83bb773e35053",
         "question": "Starmer out by June 30, 2026?",
         "pct": 51,
-        "volume": 1096334,
+        "volume": 1097159,
         "endDate": "2026-06-30T12:00:00Z",
         "slug": "starmer-out-in-2025"
       },
