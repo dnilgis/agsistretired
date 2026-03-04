@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-04T09:23:54.410Z",
+  "updated": "2026-03-04T10:03:30.014Z",
   "totalMarkets": 8,
   "categories": {
     "tariffs": [
@@ -39,7 +39,7 @@
         "id": "0xced0cb8725bad43d78fda0cd0e5fa9e31804625cb3502b2c7897f8e8f7fa9e1f",
         "question": "Kraken IPO by December 31, 2026?",
         "pct": 76,
-        "volume": 244256,
+        "volume": 244258,
         "endDate": "2027-01-01T05:00:00Z",
         "slug": "kraken-ipo-in-2025"
       },
@@ -54,7 +54,7 @@
       {
         "id": "0xbca45186bc1f8ad2912f79f22c6e37c0946f6619bbfbd0f97ad93d9b525a6293",
         "question": "Ukraine recognizes Russian sovereignty over its territory by June 30, 2026?",
-        "pct": 6,
+        "pct": 5,
         "volume": 158720,
         "endDate": "2025-12-31T12:00:00Z",
         "slug": "ukraine-recognizes-russian-sovereignty-over-ukrainian-territory-in-2025"
