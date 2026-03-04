@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-04T21:33:07.983Z",
+  "updated": "2026-03-04T22:02:10.939Z",
   "totalMarkets": 8,
   "categories": {
     "tariffs": [
@@ -22,7 +22,7 @@
       {
         "id": "0x2bde6486e7067f48ee21344d8b5c1af458732536eb4d080932c88c3a7c2d2126",
         "question": "Starmer out by December 31, 2026?",
-        "pct": 69,
+        "pct": 70,
         "volume": 465815,
         "endDate": "2026-12-31T12:00:00Z",
         "slug": "starmer-out-in-2025"
@@ -62,7 +62,7 @@
       {
         "id": "0x6e6851f2698629795fa06869d961c986221a80cedcba10fbaf0ed220607cdada",
         "question": "China x India military clash by December 31, 2026?",
-        "pct": 20,
+        "pct": 19,
         "volume": 84688,
         "endDate": "2026-12-31T12:00:00Z",
         "slug": "china-x-india-military-clash-by-december-31"
