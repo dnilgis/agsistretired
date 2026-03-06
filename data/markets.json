@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-06T22:54:25.706846+00:00",
+  "updated": "2026-03-06T23:33:24.586218+00:00",
   "markets": {
     "grains": {
       "corn": {
@@ -220,9 +220,9 @@
         "name": "Bitcoin",
         "symbol": "BTC-USD",
         "unit": "$",
-        "price": 68407.1797,
-        "change": -2383.6016,
-        "changePct": -3.37,
+        "price": 68320.3359,
+        "change": -2470.4453,
+        "changePct": -3.49,
         "prevClose": 70790.7812,
         "contract": "Spot",
         "low52": 60074.2031,
@@ -232,9 +232,9 @@
         "name": "Ethereum",
         "symbol": "ETH-USD",
         "unit": "$",
-        "price": 1986.8021,
-        "change": -84.2826,
-        "changePct": -4.07,
+        "price": 1986.3853,
+        "change": -84.6995,
+        "changePct": -4.09,
         "prevClose": 2071.0847,
         "contract": "Spot",
         "low52": 1386.7993,
@@ -244,9 +244,9 @@
         "name": "Kaspa",
         "symbol": "KAS-USD",
         "unit": "$",
-        "price": 0.03,
-        "change": -0.0005,
-        "changePct": -1.53,
+        "price": 0.0302,
+        "change": -0.0003,
+        "changePct": -0.9,
         "prevClose": 0.0305,
         "contract": "Spot",
         "low52": 0.0139,
@@ -256,9 +256,9 @@
         "name": "XRP",
         "symbol": "XRP-USD",
         "unit": "$",
-        "price": 1.3692,
-        "change": -0.0338,
-        "changePct": -2.41,
+        "price": 1.3659,
+        "change": -0.037,
+        "changePct": -2.64,
         "prevClose": 1.4029,
         "contract": "Spot",
         "low52": 1.1335,
@@ -269,22 +269,22 @@
   "news": [
     {
       "source": "Brownfield",
+      "title": "NASCAR driver Ross Chastain talks watermelon farming and racing at Commodity Classic",
+      "link": "https://www.brownfieldagnews.com/news/nascar-driver-ross-chastain-talks-watermelon-farming-and-racing-at-commodity-classic/",
+      "time": "",
+      "category": "news"
+    },
+    {
+      "source": "Brownfield",
+      "title": "Syngenta & Stine Seeds launch Expance soybean trait",
+      "link": "https://www.brownfieldagnews.com/news/syngenta-stine-seeds-launch-expance-soybean-trait/",
+      "time": "",
+      "category": "news"
+    },
+    {
+      "source": "Brownfield",
       "title": "Dekalb bringing new genetics to farmers in 2026",
       "link": "https://www.brownfieldagnews.com/news/dekalb-bringing-new-genetics-to-farmers-in-2026/",
-      "time": "",
-      "category": "news"
-    },
-    {
-      "source": "Brownfield",
-      "title": "Bayer provides update on Preceon Smart Corn at Commodity Classic",
-      "link": "https://www.brownfieldagnews.com/news/bayer-provides-update-on-preceon-smart-corn-at-commodity-classic/",
-      "time": "",
-      "category": "news"
-    },
-    {
-      "source": "Brownfield",
-      "title": "Wisconsin grants waiver, suspending swine testing and movement restrictions",
-      "link": "https://www.brownfieldagnews.com/news/wisconsin-grants-waiver-suspending-swine-testing-and-movement-restrictions/",
       "time": "",
       "category": "news"
     },
