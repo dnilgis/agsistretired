@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-06T23:41:07.334Z",
+  "updated": "2026-03-06T23:58:20.673Z",
   "totalMarkets": 8,
   "categories": {
     "tariffs": [
@@ -62,7 +62,7 @@
       {
         "id": "0x6e6851f2698629795fa06869d961c986221a80cedcba10fbaf0ed220607cdada",
         "question": "China x India military clash by December 31, 2026?",
-        "pct": 21,
+        "pct": 20,
         "volume": 85117,
         "endDate": "2026-12-31T12:00:00Z",
         "slug": "china-x-india-military-clash-by-december-31"
