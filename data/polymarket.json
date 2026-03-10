@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-10T22:33:48.048Z",
+  "updated": "2026-03-10T23:00:42.106Z",
   "totalMarkets": 8,
   "categories": {
     "tariffs": [
@@ -15,7 +15,7 @@
         "id": "0xb87df3ecfdb937e0d5bd495d7cc7e88062097616e0c59ce478e101eff5020eb7",
         "question": "Starmer out by March 31, 2026?",
         "pct": 4,
-        "volume": 605836,
+        "volume": 606099,
         "endDate": "2026-06-30T12:00:00Z",
         "slug": "starmer-out-in-2025"
       },
@@ -31,7 +31,7 @@
         "id": "0x9b3c3177fe473124c756b01e123b4b03e3a99880844ed8dea21b0a7879ca04aa",
         "question": "Kraken IPO by March 31, 2026?",
         "pct": 3,
-        "volume": 353637,
+        "volume": 353639,
         "endDate": "2026-04-01T04:00:00Z",
         "slug": "kraken-ipo-in-2025"
       },
@@ -47,7 +47,7 @@
         "id": "0xda5c517dd5b78c80dec8ceb08ca4f466317633487827d7290332b4851cc4a4fa",
         "question": "Macron out by June 30, 2026?",
         "pct": 4,
-        "volume": 256481,
+        "volume": 256510,
         "endDate": "2026-06-30T12:00:00Z",
         "slug": "macron-out-in-2025"
       },
@@ -55,7 +55,7 @@
         "id": "0xbca45186bc1f8ad2912f79f22c6e37c0946f6619bbfbd0f97ad93d9b525a6293",
         "question": "Ukraine recognizes Russian sovereignty over its territory by June 30, 2026?",
         "pct": 6,
-        "volume": 165079,
+        "volume": 165094,
         "endDate": "2025-12-31T12:00:00Z",
         "slug": "ukraine-recognizes-russian-sovereignty-over-ukrainian-territory-in-2025"
       },
@@ -63,7 +63,7 @@
         "id": "0x6beb95a01147de25b24d3ffae7a43551f392da4235a62f058515c3e99d7af199",
         "question": "NATO/EU troops fighting in Ukraine in June 30, 2026?",
         "pct": 2,
-        "volume": 86985,
+        "volume": 86987,
         "endDate": "2025-12-31T12:00:00Z",
         "slug": "natoeu-troops-fighting-in-ukraine-in-2025"
       }
