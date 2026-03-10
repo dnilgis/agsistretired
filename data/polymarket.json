@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-10T17:08:59.544Z",
+  "updated": "2026-03-10T18:00:23.259Z",
   "totalMarkets": 8,
   "categories": {
     "tariffs": [
@@ -7,7 +7,7 @@
         "id": "0xbee2cd40473495f713c69b9dfbce9fc2837fa4011568222c83c83bb773e35053",
         "question": "Starmer out by June 30, 2026?",
         "pct": 42,
-        "volume": 1164476,
+        "volume": 1165503,
         "endDate": "2026-06-30T12:00:00Z",
         "slug": "starmer-out-in-2025"
       },
@@ -23,7 +23,7 @@
         "id": "0x2bde6486e7067f48ee21344d8b5c1af458732536eb4d080932c88c3a7c2d2126",
         "question": "Starmer out by December 31, 2026?",
         "pct": 64,
-        "volume": 489611,
+        "volume": 489820,
         "endDate": "2026-12-31T12:00:00Z",
         "slug": "starmer-out-in-2025"
       },
@@ -31,7 +31,7 @@
         "id": "0x9b3c3177fe473124c756b01e123b4b03e3a99880844ed8dea21b0a7879ca04aa",
         "question": "Kraken IPO by March 31, 2026?",
         "pct": 3,
-        "volume": 353133,
+        "volume": 353633,
         "endDate": "2026-04-01T04:00:00Z",
         "slug": "kraken-ipo-in-2025"
       },
@@ -54,18 +54,18 @@
       {
         "id": "0xbca45186bc1f8ad2912f79f22c6e37c0946f6619bbfbd0f97ad93d9b525a6293",
         "question": "Ukraine recognizes Russian sovereignty over its territory by June 30, 2026?",
-        "pct": 6,
+        "pct": 5,
         "volume": 165060,
         "endDate": "2025-12-31T12:00:00Z",
         "slug": "ukraine-recognizes-russian-sovereignty-over-ukrainian-territory-in-2025"
       },
       {
-        "id": "0x6e6851f2698629795fa06869d961c986221a80cedcba10fbaf0ed220607cdada",
-        "question": "China x India military clash by December 31, 2026?",
-        "pct": 18,
-        "volume": 85916,
-        "endDate": "2026-12-31T12:00:00Z",
-        "slug": "china-x-india-military-clash-by-december-31"
+        "id": "0x6beb95a01147de25b24d3ffae7a43551f392da4235a62f058515c3e99d7af199",
+        "question": "NATO/EU troops fighting in Ukraine in June 30, 2026?",
+        "pct": 2,
+        "volume": 86933,
+        "endDate": "2025-12-31T12:00:00Z",
+        "slug": "natoeu-troops-fighting-in-ukraine-in-2025"
       }
     ],
     "fed": [],
