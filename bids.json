@@ -1,5 +1,5 @@
 {
-  "generated": "2026-03-12T18:54:34.021899+00:00",
+  "generated": "2026-03-12T20:35:39.523760+00:00",
   "sources": [
     "farmbucks.com"
   ],
@@ -84,7 +84,7 @@
       "lng": -93.017225,
       "bids": {
         "corn": {
-          "cashPrice": 4.63,
+          "cashPrice": 4.64,
           "delivery": "April 2027"
         }
       }
@@ -379,7 +379,7 @@
       "lng": -94.345543,
       "bids": {
         "corn": {
-          "cashPrice": 4.58,
+          "cashPrice": 4.59,
           "delivery": "April 2027"
         }
       }
@@ -823,7 +823,7 @@
       "lng": -90.960181,
       "bids": {
         "corn": {
-          "cashPrice": 4.34,
+          "cashPrice": 4.35,
           "delivery": "March 2027"
         }
       }
