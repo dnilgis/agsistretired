@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-15T16:37:25.362676+00:00",
+  "updated": "2026-03-15T18:46:13.449586+00:00",
   "markets": {
     "grains": {
       "corn": {
@@ -81,9 +81,9 @@
         "symbol": "LE=F",
         "unit": "\u00a2/lb",
         "price": 228.95,
-        "change": -2.625,
-        "changePct": -1.13,
-        "prevClose": 231.575,
+        "change": 2.3,
+        "changePct": 1.01,
+        "prevClose": 226.65,
         "contract": "Front Month",
         "low52": 197.75,
         "high52": 247.75
@@ -93,9 +93,9 @@
         "symbol": "GF=F",
         "unit": "\u00a2/lb",
         "price": 343.1,
-        "change": -0.25,
-        "changePct": -0.07,
-        "prevClose": 343.35,
+        "change": 14.7,
+        "changePct": 4.48,
+        "prevClose": 328.4,
         "contract": "Front Month",
         "low52": 273.1,
         "high52": 381.025
@@ -105,9 +105,9 @@
         "symbol": "HE=F",
         "unit": "\u00a2/lb",
         "price": 93.45,
-        "change": -1.025,
-        "changePct": -1.08,
-        "prevClose": 94.475,
+        "change": 7.375,
+        "changePct": 8.57,
+        "prevClose": 86.075,
         "contract": "Front Month",
         "low52": 77.35,
         "high52": 113.7
@@ -117,9 +117,9 @@
         "symbol": "DC=F",
         "unit": "$/cwt",
         "price": 16.66,
-        "change": 0.2,
-        "changePct": 1.22,
-        "prevClose": 16.46,
+        "change": 0.49,
+        "changePct": 3.03,
+        "prevClose": 16.17,
         "contract": "Front Month",
         "low52": 14.53,
         "high52": 18.89
@@ -220,9 +220,9 @@
         "name": "Bitcoin",
         "symbol": "BTC-USD",
         "unit": "$",
-        "price": 71399.1406,
-        "change": 163.0078,
-        "changePct": 0.23,
+        "price": 71708.9375,
+        "change": 472.8047,
+        "changePct": 0.66,
         "prevClose": 71236.1328,
         "contract": "Spot",
         "low52": 60074.2031,
@@ -232,9 +232,9 @@
         "name": "Ethereum",
         "symbol": "ETH-USD",
         "unit": "$",
-        "price": 2090.6936,
-        "change": -6.8679,
-        "changePct": -0.33,
+        "price": 2110.3354,
+        "change": 12.7739,
+        "changePct": 0.61,
         "prevClose": 2097.5615,
         "contract": "Spot",
         "low52": 1386.7993,
@@ -244,9 +244,9 @@
         "name": "Kaspa",
         "symbol": "KAS-USD",
         "unit": "$",
-        "price": 0.0301,
-        "change": -0.0005,
-        "changePct": -1.75,
+        "price": 0.0304,
+        "change": -0.0003,
+        "changePct": -1.04,
         "prevClose": 0.0307,
         "contract": "Spot",
         "low52": 0.0139,
@@ -256,9 +256,9 @@
         "name": "XRP",
         "symbol": "XRP-USD",
         "unit": "$",
-        "price": 1.4132,
-        "change": 0.0058,
-        "changePct": 0.41,
+        "price": 1.4186,
+        "change": 0.0112,
+        "changePct": 0.8,
         "prevClose": 1.4074,
         "contract": "Spot",
         "low52": 1.1335,
@@ -267,6 +267,13 @@
     }
   },
   "news": [
+    {
+      "source": "Brownfield",
+      "title": "Rancher describes heartbreak after wildfire burns hundreds of thousands of acres in Nebraska",
+      "link": "https://www.brownfieldagnews.com/news/rancher-describes-heartbreak-after-wildfire-burns-hundreds-of-thousands-of-acres-in-nebraska/",
+      "time": "",
+      "category": "news"
+    },
     {
       "source": "Brownfield",
       "title": "Farmers concerned over fertilizer duopoly",
@@ -278,13 +285,6 @@
       "source": "Brownfield",
       "title": "Planting on hold as rain and cool weather slow fieldwork",
       "link": "https://www.brownfieldagnews.com/news/planting-on-hold-as-rain-and-cool-weather-slow-fieldwork/",
-      "time": "",
-      "category": "news"
-    },
-    {
-      "source": "Brownfield",
-      "title": "Hawkins: more ad-hoc assistance being discussed",
-      "link": "https://www.brownfieldagnews.com/news/hawkins-more-ad-hoc-assistance-being-discussed/",
       "time": "",
       "category": "news"
     },
