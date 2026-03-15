@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-15T02:47:14.113169+00:00",
+  "updated": "2026-03-15T05:37:57.668307+00:00",
   "markets": {
     "grains": {
       "corn": {
@@ -220,10 +220,10 @@
         "name": "Bitcoin",
         "symbol": "BTC-USD",
         "unit": "$",
-        "price": 71313.875,
-        "change": 356.7344,
-        "changePct": 0.5,
-        "prevClose": 70957.1406,
+        "price": 71625.6719,
+        "change": 389.5391,
+        "changePct": 0.55,
+        "prevClose": 71236.1328,
         "contract": "Spot",
         "low52": 60074.2031,
         "high52": 126198.0703
@@ -232,10 +232,10 @@
         "name": "Ethereum",
         "symbol": "ETH-USD",
         "unit": "$",
-        "price": 2094.4729,
-        "change": 2.3784,
-        "changePct": 0.11,
-        "prevClose": 2092.0945,
+        "price": 2110.9053,
+        "change": 13.3438,
+        "changePct": 0.64,
+        "prevClose": 2097.5615,
         "contract": "Spot",
         "low52": 1386.7993,
         "high52": 4953.7329
@@ -245,9 +245,9 @@
         "symbol": "KAS-USD",
         "unit": "$",
         "price": 0.0307,
-        "change": 0.0001,
-        "changePct": 0.17,
-        "prevClose": 0.0306,
+        "change": -0.0,
+        "changePct": -0.07,
+        "prevClose": 0.0307,
         "contract": "Spot",
         "low52": 0.0139,
         "high52": 0.1308
@@ -256,10 +256,10 @@
         "name": "XRP",
         "symbol": "XRP-USD",
         "unit": "$",
-        "price": 1.414,
-        "change": 0.0102,
-        "changePct": 0.72,
-        "prevClose": 1.4039,
+        "price": 1.4177,
+        "change": 0.0103,
+        "changePct": 0.73,
+        "prevClose": 1.4074,
         "contract": "Spot",
         "low52": 1.1335,
         "high52": 3.6502
