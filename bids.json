@@ -1,5 +1,5 @@
 {
-  "generated": "2026-03-19T18:59:14.561894+00:00",
+  "generated": "2026-03-19T20:38:07.472487+00:00",
   "sources": [
     "farmbucks.com"
   ],
@@ -35,7 +35,7 @@
       "lng": -96.057744,
       "bids": {
         "soy": {
-          "cashPrice": 11.28,
+          "cashPrice": 11.29,
           "delivery": "April 2026"
         }
       }
@@ -84,7 +84,7 @@
       "lng": -93.017225,
       "bids": {
         "corn": {
-          "cashPrice": 4.69,
+          "cashPrice": 4.7,
           "delivery": "April 2027"
         }
       }
@@ -118,7 +118,7 @@
       "lng": -94.769971,
       "bids": {
         "corn": {
-          "cashPrice": 4.69,
+          "cashPrice": 4.7,
           "delivery": "April 2027"
         }
       }
@@ -277,7 +277,7 @@
       "lng": -96.064061,
       "bids": {
         "corn": {
-          "cashPrice": 4.69,
+          "cashPrice": 4.7,
           "delivery": "April 2027"
         }
       }
@@ -349,7 +349,7 @@
       "lng": -93.275434,
       "bids": {
         "corn": {
-          "cashPrice": 4.62,
+          "cashPrice": 4.63,
           "delivery": "April 2027"
         }
       }
@@ -379,7 +379,7 @@
       "lng": -94.345543,
       "bids": {
         "corn": {
-          "cashPrice": 4.64,
+          "cashPrice": 4.65,
           "delivery": "April 2027"
         }
       }
@@ -641,7 +641,7 @@
       "lng": -95.569012,
       "bids": {
         "corn": {
-          "cashPrice": 4.44,
+          "cashPrice": 4.45,
           "delivery": "April 2027"
         }
       }
@@ -823,7 +823,7 @@
       "lng": -90.960181,
       "bids": {
         "corn": {
-          "cashPrice": 4.43,
+          "cashPrice": 4.44,
           "delivery": "March 2027"
         }
       }
@@ -838,7 +838,7 @@
       "lng": -89.8169553,
       "bids": {
         "soy": {
-          "cashPrice": 10.7,
+          "cashPrice": 10.71,
           "delivery": "March 2026"
         }
       }
@@ -853,7 +853,7 @@
       "lng": -89.984991,
       "bids": {
         "soy": {
-          "cashPrice": 10.66,
+          "cashPrice": 10.67,
           "delivery": "March 2026"
         }
       }
@@ -868,7 +868,7 @@
       "lng": -91.846192,
       "bids": {
         "corn": {
-          "cashPrice": 4.58,
+          "cashPrice": 4.59,
           "delivery": "April 2027"
         }
       }
@@ -883,7 +883,7 @@
       "lng": -91.214285,
       "bids": {
         "soy": {
-          "cashPrice": 10.73,
+          "cashPrice": 10.74,
           "delivery": "March 2026"
         }
       }
@@ -948,7 +948,7 @@
           "delivery": "March 2026"
         },
         "soy": {
-          "cashPrice": 10.73,
+          "cashPrice": 10.74,
           "delivery": "March 2026"
         },
         "wheat": {
@@ -967,7 +967,7 @@
       "lng": -91.007656,
       "bids": {
         "soy": {
-          "cashPrice": 10.73,
+          "cashPrice": 10.74,
           "delivery": "March 2026"
         }
       }
@@ -1005,7 +1005,7 @@
       "lng": -89.9550392,
       "bids": {
         "soy": {
-          "cashPrice": 10.7,
+          "cashPrice": 10.71,
           "delivery": "March 2026"
         }
       }
@@ -1066,7 +1066,7 @@
       "lng": -88.335039,
       "bids": {
         "soy": {
-          "cashPrice": 10.63,
+          "cashPrice": 10.64,
           "delivery": "March 2026"
         }
       }
@@ -1081,7 +1081,7 @@
       "lng": -90.076629,
       "bids": {
         "soy": {
-          "cashPrice": 10.58,
+          "cashPrice": 10.59,
           "delivery": "March 2026"
         }
       }
@@ -1096,7 +1096,7 @@
       "lng": -90.435174,
       "bids": {
         "soy": {
-          "cashPrice": 10.7,
+          "cashPrice": 10.71,
           "delivery": "March 2026"
         }
       }
@@ -1134,7 +1134,7 @@
       "lng": -91.076819,
       "bids": {
         "soy": {
-          "cashPrice": 10.78,
+          "cashPrice": 10.79,
           "delivery": "March 2026"
         }
       }
@@ -1168,7 +1168,7 @@
       "lng": -89.7491555,
       "bids": {
         "soy": {
-          "cashPrice": 10.63,
+          "cashPrice": 10.64,
           "delivery": "March 2026"
         }
       }
