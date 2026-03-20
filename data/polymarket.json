@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-20T11:30:12.829Z",
+  "updated": "2026-03-20T12:00:04.667Z",
   "totalMarkets": 8,
   "categories": {
     "tariffs": [
@@ -55,7 +55,7 @@
         "id": "0xbca45186bc1f8ad2912f79f22c6e37c0946f6619bbfbd0f97ad93d9b525a6293",
         "question": "Ukraine recognizes Russian sovereignty over its territory by June 30, 2026?",
         "pct": 4,
-        "volume": 178710,
+        "volume": 178712,
         "endDate": "2025-12-31T12:00:00Z",
         "slug": "ukraine-recognizes-russian-sovereignty-over-ukrainian-territory-in-2025"
       },
