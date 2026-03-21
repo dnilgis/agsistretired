@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-21T15:40:18.245Z",
+  "updated": "2026-03-21T15:57:28.445Z",
   "totalMarkets": 8,
   "categories": {
     "tariffs": [
@@ -38,7 +38,7 @@
       {
         "id": "0xced0cb8725bad43d78fda0cd0e5fa9e31804625cb3502b2c7897f8e8f7fa9e1f",
         "question": "Kraken IPO by December 31, 2026?",
-        "pct": 32,
+        "pct": 31,
         "volume": 346339,
         "endDate": "2027-01-01T05:00:00Z",
         "slug": "kraken-ipo-in-2025"
