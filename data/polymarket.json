@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-21T05:54:46.832Z",
+  "updated": "2026-03-21T06:40:17.917Z",
   "totalMarkets": 8,
   "categories": {
     "tariffs": [
@@ -15,15 +15,15 @@
         "id": "0x2bde6486e7067f48ee21344d8b5c1af458732536eb4d080932c88c3a7c2d2126",
         "question": "Starmer out by December 31, 2026?",
         "pct": 70,
-        "volume": 753616,
+        "volume": 753679,
         "endDate": "2026-12-31T12:00:00Z",
         "slug": "starmer-out-in-2025"
       },
       {
         "id": "0xb87df3ecfdb937e0d5bd495d7cc7e88062097616e0c59ce478e101eff5020eb7",
         "question": "Starmer out by March 31, 2026?",
-        "pct": 3,
-        "volume": 711757,
+        "pct": 2,
+        "volume": 711837,
         "endDate": "2026-06-30T12:00:00Z",
         "slug": "starmer-out-in-2025"
       },
@@ -39,7 +39,7 @@
         "id": "0xced0cb8725bad43d78fda0cd0e5fa9e31804625cb3502b2c7897f8e8f7fa9e1f",
         "question": "Kraken IPO by December 31, 2026?",
         "pct": 28,
-        "volume": 343875,
+        "volume": 343883,
         "endDate": "2027-01-01T05:00:00Z",
         "slug": "kraken-ipo-in-2025"
       },
@@ -62,7 +62,7 @@
       {
         "id": "0x6e6851f2698629795fa06869d961c986221a80cedcba10fbaf0ed220607cdada",
         "question": "China x India military clash by December 31, 2026?",
-        "pct": 22,
+        "pct": 23,
         "volume": 100484,
         "endDate": "2026-12-31T12:00:00Z",
         "slug": "china-x-india-military-clash-by-december-31"
