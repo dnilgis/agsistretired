@@ -1,13 +1,13 @@
 {
-  "updated": "2026-03-23T21:01:42.598Z",
+  "updated": "2026-03-23T21:50:32.419Z",
   "totalMarkets": 8,
   "categories": {
     "tariffs": [
       {
         "id": "0xbee2cd40473495f713c69b9dfbce9fc2837fa4011568222c83c83bb773e35053",
         "question": "Starmer out by June 30, 2026?",
-        "pct": 46,
-        "volume": 1275816,
+        "pct": 45,
+        "volume": 1277402,
         "endDate": "2026-06-30T12:00:00Z",
         "slug": "starmer-out-in-2025"
       },
@@ -15,7 +15,7 @@
         "id": "0x2bde6486e7067f48ee21344d8b5c1af458732536eb4d080932c88c3a7c2d2126",
         "question": "Starmer out by December 31, 2026?",
         "pct": 67,
-        "volume": 793971,
+        "volume": 794426,
         "endDate": "2026-12-31T12:00:00Z",
         "slug": "starmer-out-in-2025"
       },
@@ -28,18 +28,10 @@
         "slug": "starmer-out-in-2025"
       },
       {
-        "id": "0x9b3c3177fe473124c756b01e123b4b03e3a99880844ed8dea21b0a7879ca04aa",
-        "question": "Kraken IPO by March 31, 2026?",
-        "pct": 1,
-        "volume": 456730,
-        "endDate": "2026-04-01T04:00:00Z",
-        "slug": "kraken-ipo-in-2025"
-      },
-      {
         "id": "0xced0cb8725bad43d78fda0cd0e5fa9e31804625cb3502b2c7897f8e8f7fa9e1f",
         "question": "Kraken IPO by December 31, 2026?",
-        "pct": 37,
-        "volume": 346987,
+        "pct": 43,
+        "volume": 348341,
         "endDate": "2027-01-01T05:00:00Z",
         "slug": "kraken-ipo-in-2025"
       },
@@ -66,6 +58,14 @@
         "volume": 100636,
         "endDate": "2026-12-31T12:00:00Z",
         "slug": "china-x-india-military-clash-by-december-31"
+      },
+      {
+        "id": "0x6beb95a01147de25b24d3ffae7a43551f392da4235a62f058515c3e99d7af199",
+        "question": "NATO/EU troops fighting in Ukraine in June 30, 2026?",
+        "pct": 4,
+        "volume": 96384,
+        "endDate": "2025-12-31T12:00:00Z",
+        "slug": "natoeu-troops-fighting-in-ukraine-in-2025"
       }
     ],
     "fed": [],
