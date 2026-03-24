@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-24T23:00:23.279Z",
+  "updated": "2026-03-24T23:46:02.220Z",
   "totalMarkets": 8,
   "categories": {
     "tariffs": [
@@ -14,7 +14,7 @@
       {
         "id": "0x2bde6486e7067f48ee21344d8b5c1af458732536eb4d080932c88c3a7c2d2126",
         "question": "Starmer out by December 31, 2026?",
-        "pct": 67,
+        "pct": 68,
         "volume": 797361,
         "endDate": "2026-12-31T12:00:00Z",
         "slug": "starmer-out-in-2025"
@@ -63,7 +63,7 @@
         "id": "0x6beb95a01147de25b24d3ffae7a43551f392da4235a62f058515c3e99d7af199",
         "question": "NATO/EU troops fighting in Ukraine in June 30, 2026?",
         "pct": 5,
-        "volume": 96429,
+        "volume": 96430,
         "endDate": "2025-12-31T12:00:00Z",
         "slug": "natoeu-troops-fighting-in-ukraine-in-2025"
       }
