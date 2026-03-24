@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-24T21:52:24.273Z",
+  "updated": "2026-03-24T22:29:03.536Z",
   "totalMarkets": 8,
   "categories": {
     "tariffs": [
@@ -22,8 +22,8 @@
       {
         "id": "0xb87df3ecfdb937e0d5bd495d7cc7e88062097616e0c59ce478e101eff5020eb7",
         "question": "Starmer out by March 31, 2026?",
-        "pct": 2,
-        "volume": 735441,
+        "pct": 1,
+        "volume": 740249,
         "endDate": "2026-06-30T12:00:00Z",
         "slug": "starmer-out-in-2025"
       },
@@ -47,7 +47,7 @@
         "id": "0xbca45186bc1f8ad2912f79f22c6e37c0946f6619bbfbd0f97ad93d9b525a6293",
         "question": "Ukraine recognizes Russian sovereignty over its territory by June 30, 2026?",
         "pct": 4,
-        "volume": 180421,
+        "volume": 180431,
         "endDate": "2025-12-31T12:00:00Z",
         "slug": "ukraine-recognizes-russian-sovereignty-over-ukrainian-territory-in-2025"
       },
