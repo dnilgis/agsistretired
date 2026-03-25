@@ -1,5 +1,5 @@
 {
-  "generated": "2026-03-25T20:38:37.432932+00:00",
+  "generated": "2026-03-25T22:36:23.504202+00:00",
   "sources": [
     "farmbucks.com"
   ],
@@ -35,7 +35,7 @@
       "lng": -96.057744,
       "bids": {
         "soy": {
-          "cashPrice": 11.32,
+          "cashPrice": 11.34,
           "delivery": "April 2026"
         }
       }
@@ -853,7 +853,7 @@
       "lng": -89.984991,
       "bids": {
         "soy": {
-          "cashPrice": 10.7,
+          "cashPrice": 10.69,
           "delivery": "March 2026"
         }
       }
@@ -883,7 +883,7 @@
       "lng": -91.214285,
       "bids": {
         "soy": {
-          "cashPrice": 10.77,
+          "cashPrice": 10.79,
           "delivery": "March 2026"
         }
       }
@@ -967,7 +967,7 @@
       "lng": -91.007656,
       "bids": {
         "soy": {
-          "cashPrice": 10.77,
+          "cashPrice": 10.79,
           "delivery": "March 2026"
         }
       }
@@ -1066,7 +1066,7 @@
       "lng": -88.335039,
       "bids": {
         "soy": {
-          "cashPrice": 10.67,
+          "cashPrice": 10.69,
           "delivery": "March 2026"
         }
       }
@@ -1081,7 +1081,7 @@
       "lng": -90.076629,
       "bids": {
         "soy": {
-          "cashPrice": 10.62,
+          "cashPrice": 10.64,
           "delivery": "March 2026"
         }
       }
@@ -1134,7 +1134,7 @@
       "lng": -91.076819,
       "bids": {
         "soy": {
-          "cashPrice": 10.82,
+          "cashPrice": 10.84,
           "delivery": "March 2026"
         }
       }
@@ -1168,7 +1168,7 @@
       "lng": -89.7491555,
       "bids": {
         "soy": {
-          "cashPrice": 10.67,
+          "cashPrice": 10.69,
           "delivery": "March 2026"
         }
       }
