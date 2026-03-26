@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-26T21:58:41.768Z",
+  "updated": "2026-03-26T22:39:55.942Z",
   "totalMarkets": 8,
   "categories": {
     "tariffs": [
@@ -47,7 +47,7 @@
         "id": "0xbca45186bc1f8ad2912f79f22c6e37c0946f6619bbfbd0f97ad93d9b525a6293",
         "question": "Ukraine recognizes Russian sovereignty over its territory by June 30, 2026?",
         "pct": 4,
-        "volume": 181732,
+        "volume": 181738,
         "endDate": "2025-12-31T12:00:00Z",
         "slug": "ukraine-recognizes-russian-sovereignty-over-ukrainian-territory-in-2025"
       },
@@ -63,7 +63,7 @@
         "id": "0x6beb95a01147de25b24d3ffae7a43551f392da4235a62f058515c3e99d7af199",
         "question": "NATO/EU troops fighting in Ukraine in June 30, 2026?",
         "pct": 4,
-        "volume": 97132,
+        "volume": 97139,
         "endDate": "2025-12-31T12:00:00Z",
         "slug": "natoeu-troops-fighting-in-ukraine-in-2025"
       }
