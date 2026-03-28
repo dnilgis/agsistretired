@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-28T14:36:04.014052+00:00",
+  "updated": "2026-03-28T16:39:36.091537+00:00",
   "markets": {
     "grains": {
       "corn": {
@@ -220,9 +220,9 @@
         "name": "Bitcoin",
         "symbol": "BTC-USD",
         "unit": "$",
-        "price": 66761.7344,
-        "change": 410.1641,
-        "changePct": 0.62,
+        "price": 66932.6953,
+        "change": 581.125,
+        "changePct": 0.88,
         "prevClose": 66351.5703,
         "contract": "Spot",
         "low52": 60074.2031,
@@ -232,9 +232,9 @@
         "name": "Ethereum",
         "symbol": "ETH-USD",
         "unit": "$",
-        "price": 2024.6409,
-        "change": 32.921,
-        "changePct": 1.65,
+        "price": 2024.9307,
+        "change": 33.2108,
+        "changePct": 1.67,
         "prevClose": 1991.7198,
         "contract": "Spot",
         "low52": 1386.7993,
@@ -244,9 +244,9 @@
         "name": "Kaspa",
         "symbol": "KAS-USD",
         "unit": "$",
-        "price": 0.0353,
-        "change": 0.0008,
-        "changePct": 2.22,
+        "price": 0.0352,
+        "change": 0.0007,
+        "changePct": 1.97,
         "prevClose": 0.0345,
         "contract": "Spot",
         "low52": 0.0139,
@@ -256,9 +256,9 @@
         "name": "XRP",
         "symbol": "XRP-USD",
         "unit": "$",
-        "price": 1.3481,
-        "change": 0.0231,
-        "changePct": 1.74,
+        "price": 1.3515,
+        "change": 0.0264,
+        "changePct": 1.99,
         "prevClose": 1.325,
         "contract": "Spot",
         "low52": 1.1335,
@@ -267,13 +267,6 @@
     }
   },
   "news": [
-    {
-      "source": "Brownfield",
-      "title": "Remembering Orion",
-      "link": "https://www.brownfieldagnews.com/two-cents/remembering-orion/",
-      "time": "",
-      "category": "news"
-    },
     {
       "source": "Brownfield",
       "title": "Soybeans and corn lower on Friday",
@@ -285,6 +278,13 @@
       "source": "Brownfield",
       "title": "Rotary milking parlors are gaining in popularity",
       "link": "https://www.brownfieldagnews.com/news/rotary-milking-parlors-are-gaining-in-popularity/",
+      "time": "",
+      "category": "news"
+    },
+    {
+      "source": "Brownfield",
+      "title": "Rising prices, not shortages, lead fertilizer concerns this spring",
+      "link": "https://www.brownfieldagnews.com/news/rising-prices-not-shortages-lead-fertilizer-concerns-this-spring/",
       "time": "",
       "category": "news"
     },
