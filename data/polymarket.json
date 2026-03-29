@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-29T22:00:59.306Z",
+  "updated": "2026-03-29T22:50:54.163Z",
   "totalMarkets": 8,
   "categories": {
     "tariffs": [
@@ -7,7 +7,7 @@
         "id": "0xbee2cd40473495f713c69b9dfbce9fc2837fa4011568222c83c83bb773e35053",
         "question": "Starmer out by June 30, 2026?",
         "pct": 42,
-        "volume": 1300481,
+        "volume": 1300493,
         "endDate": "2026-06-30T12:00:00Z",
         "slug": "starmer-out-in-2025"
       },
@@ -15,7 +15,7 @@
         "id": "0x2bde6486e7067f48ee21344d8b5c1af458732536eb4d080932c88c3a7c2d2126",
         "question": "Starmer out by December 31, 2026?",
         "pct": 66,
-        "volume": 822913,
+        "volume": 822927,
         "endDate": "2026-12-31T12:00:00Z",
         "slug": "starmer-out-in-2025"
       },
@@ -63,7 +63,7 @@
         "id": "0xc6158282b574047044e504aabb1bc1f86ed28097e62d69425cb4403847767945",
         "question": "Starmer out by April 30, 2026?",
         "pct": 5,
-        "volume": 71790,
+        "volume": 71871,
         "endDate": "2026-06-30T12:00:00Z",
         "slug": "starmer-out-in-2025"
       }
