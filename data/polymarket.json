@@ -1,13 +1,13 @@
 {
-  "updated": "2026-04-01T12:42:08.334Z",
+  "updated": "2026-04-01T14:18:18.296Z",
   "totalMarkets": 8,
   "categories": {
     "tariffs": [
       {
         "id": "0xbee2cd40473495f713c69b9dfbce9fc2837fa4011568222c83c83bb773e35053",
         "question": "Starmer out by June 30, 2026?",
-        "pct": 33,
-        "volume": 1314886,
+        "pct": 32,
+        "volume": 1314891,
         "endDate": "2026-06-30T12:00:00Z",
         "slug": "starmer-out-in-2025"
       },
@@ -15,15 +15,15 @@
         "id": "0x2bde6486e7067f48ee21344d8b5c1af458732536eb4d080932c88c3a7c2d2126",
         "question": "Starmer out by December 31, 2026?",
         "pct": 59,
-        "volume": 845297,
+        "volume": 846100,
         "endDate": "2026-12-31T12:00:00Z",
         "slug": "starmer-out-in-2025"
       },
       {
         "id": "0xced0cb8725bad43d78fda0cd0e5fa9e31804625cb3502b2c7897f8e8f7fa9e1f",
         "question": "Kraken IPO by December 31, 2026?",
-        "pct": 45,
-        "volume": 358637,
+        "pct": 43,
+        "volume": 358721,
         "endDate": "2027-01-01T05:00:00Z",
         "slug": "kraken-ipo-in-2025"
       },
@@ -31,7 +31,7 @@
         "id": "0xda5c517dd5b78c80dec8ceb08ca4f466317633487827d7290332b4851cc4a4fa",
         "question": "Macron out by June 30, 2026?",
         "pct": 3,
-        "volume": 296395,
+        "volume": 297670,
         "endDate": "2026-06-30T12:00:00Z",
         "slug": "macron-out-in-2025"
       },
@@ -46,8 +46,8 @@
       {
         "id": "0x6e6851f2698629795fa06869d961c986221a80cedcba10fbaf0ed220607cdada",
         "question": "China x India military clash by December 31, 2026?",
-        "pct": 19,
-        "volume": 104956,
+        "pct": 18,
+        "volume": 105334,
         "endDate": "2026-12-31T12:00:00Z",
         "slug": "china-x-india-military-clash-by-december-31"
       },
@@ -62,8 +62,8 @@
       {
         "id": "0xc6158282b574047044e504aabb1bc1f86ed28097e62d69425cb4403847767945",
         "question": "Starmer out by April 30, 2026?",
-        "pct": 4,
-        "volume": 85077,
+        "pct": 3,
+        "volume": 85494,
         "endDate": "2026-06-30T12:00:00Z",
         "slug": "starmer-out-in-2025"
       }
