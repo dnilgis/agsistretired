@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-02T04:37:43.394Z",
+  "updated": "2026-04-02T06:01:58.716Z",
   "totalMarkets": 8,
   "categories": {
     "tariffs": [
@@ -7,7 +7,7 @@
         "id": "0xbee2cd40473495f713c69b9dfbce9fc2837fa4011568222c83c83bb773e35053",
         "question": "Starmer out by June 30, 2026?",
         "pct": 27,
-        "volume": 1377919,
+        "volume": 1380571,
         "endDate": "2026-06-30T12:00:00Z",
         "slug": "starmer-out-in-2025"
       },
@@ -22,8 +22,8 @@
       {
         "id": "0xced0cb8725bad43d78fda0cd0e5fa9e31804625cb3502b2c7897f8e8f7fa9e1f",
         "question": "Kraken IPO by December 31, 2026?",
-        "pct": 44,
-        "volume": 358835,
+        "pct": 43,
+        "volume": 358850,
         "endDate": "2027-01-01T05:00:00Z",
         "slug": "kraken-ipo-in-2025"
       },
@@ -55,7 +55,7 @@
         "id": "0x6beb95a01147de25b24d3ffae7a43551f392da4235a62f058515c3e99d7af199",
         "question": "NATO/EU troops fighting in Ukraine in June 30, 2026?",
         "pct": 5,
-        "volume": 100740,
+        "volume": 100747,
         "endDate": "2025-12-31T12:00:00Z",
         "slug": "natoeu-troops-fighting-in-ukraine-in-2025"
       },
@@ -63,7 +63,7 @@
         "id": "0xc6158282b574047044e504aabb1bc1f86ed28097e62d69425cb4403847767945",
         "question": "Starmer out by April 30, 2026?",
         "pct": 3,
-        "volume": 92344,
+        "volume": 92548,
         "endDate": "2026-06-30T12:00:00Z",
         "slug": "starmer-out-in-2025"
       }
