@@ -1,5 +1,5 @@
 {
-  "generated": "2026-04-03T07:02:50.255079+00:00",
+  "generated": "2026-04-03T14:41:41.107516+00:00",
   "sources": [
     "farmbucks.com"
   ],
@@ -153,10 +153,10 @@
       "bids": {
         "corn": {
           "cashPrice": 4.08,
-          "delivery": "May 2026"
+          "delivery": "April 2026"
         },
         "soy": {
-          "cashPrice": 10.88,
+          "cashPrice": 10.92,
           "delivery": "April 2026"
         }
       }
