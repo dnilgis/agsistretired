@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-03T16:02:23.009687+00:00",
+  "updated": "2026-04-03T16:56:46.355328+00:00",
   "markets": {
     "grains": {
       "corn": {
@@ -154,9 +154,9 @@
         "name": "US Dollar Index",
         "symbol": "DX-Y.NYB",
         "unit": "$",
-        "price": 100.161,
-        "change": 0.157,
-        "changePct": 0.16,
+        "price": 100.172,
+        "change": 0.168,
+        "changePct": 0.17,
         "prevClose": 100.004,
         "contract": "Spot",
         "low52": 95.55,
@@ -220,9 +220,9 @@
         "name": "Bitcoin",
         "symbol": "BTC-USD",
         "unit": "$",
-        "price": 66837.7266,
-        "change": -51.3672,
-        "changePct": -0.08,
+        "price": 67029.0938,
+        "change": 140.0,
+        "changePct": 0.21,
         "prevClose": 66889.0938,
         "contract": "Spot",
         "low52": 60074.2031,
@@ -232,9 +232,9 @@
         "name": "Ethereum",
         "symbol": "ETH-USD",
         "unit": "$",
-        "price": 2051.2925,
-        "change": -5.5393,
-        "changePct": -0.27,
+        "price": 2054.8296,
+        "change": -2.0022,
+        "changePct": -0.1,
         "prevClose": 2056.8318,
         "contract": "Spot",
         "low52": 1386.7993,
@@ -244,9 +244,9 @@
         "name": "Kaspa",
         "symbol": "KAS-USD",
         "unit": "$",
-        "price": 0.0309,
-        "change": -0.0004,
-        "changePct": -1.21,
+        "price": 0.031,
+        "change": -0.0002,
+        "changePct": -0.76,
         "prevClose": 0.0312,
         "contract": "Spot",
         "low52": 0.0139,
@@ -256,9 +256,9 @@
         "name": "XRP",
         "symbol": "XRP-USD",
         "unit": "$",
-        "price": 1.3189,
-        "change": 0.0003,
-        "changePct": 0.02,
+        "price": 1.3239,
+        "change": 0.0053,
+        "changePct": 0.4,
         "prevClose": 1.3186,
         "contract": "Spot",
         "low52": 1.1335,
@@ -269,22 +269,22 @@
   "news": [
     {
       "source": "Brownfield",
+      "title": "Iowa fields turning green as cover crop season kicks into gear",
+      "link": "https://www.brownfieldagnews.com/news/iowa-fields-turning-green-as-cover-crop-season-kicks-into-gear/",
+      "time": "",
+      "category": "news"
+    },
+    {
+      "source": "Brownfield",
+      "title": "Midday cash livestock markets",
+      "link": "https://www.brownfieldagnews.com/market-news/midday-cash-livestock-markets-2743/",
+      "time": "",
+      "category": "news"
+    },
+    {
+      "source": "Brownfield",
       "title": "\u201cSomething always comes through\u201d: Minnesota producer battles ongoing swine diseases",
       "link": "https://www.brownfieldagnews.com/news/something-always-comes-through-minnesota-producer-battles-ongoing-swine-diseases/",
-      "time": "",
-      "category": "news"
-    },
-    {
-      "source": "Brownfield",
-      "title": "Axiota Animal Health to base global operations in Kansas",
-      "link": "https://www.brownfieldagnews.com/news/axiota-animal-health-to-base-global-operations-in-kansas/",
-      "time": "",
-      "category": "news"
-    },
-    {
-      "source": "Brownfield",
-      "title": "Texas cattle producer says protecting the U.S. cattle herd is top priority as USDA weighs reopening border to Mexican cattle",
-      "link": "https://www.brownfieldagnews.com/news/texas-cattle-producer-says-protecting-the-u-s-cattle-herd-is-top-priority-as-usda-weighs-reopening-border-to-mexican-cattle/",
       "time": "",
       "category": "news"
     },
