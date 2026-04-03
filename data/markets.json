@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-03T11:41:14.687861+00:00",
+  "updated": "2026-04-03T13:16:16.827669+00:00",
   "markets": {
     "grains": {
       "corn": {
@@ -154,9 +154,9 @@
         "name": "US Dollar Index",
         "symbol": "DX-Y.NYB",
         "unit": "$",
-        "price": 99.988,
-        "change": -0.016,
-        "changePct": -0.02,
+        "price": 100.074,
+        "change": 0.07,
+        "changePct": 0.07,
         "prevClose": 100.004,
         "contract": "Spot",
         "low52": 95.55,
@@ -220,9 +220,9 @@
         "name": "Bitcoin",
         "symbol": "BTC-USD",
         "unit": "$",
-        "price": 66976.0078,
-        "change": 86.9141,
-        "changePct": 0.13,
+        "price": 66591.9609,
+        "change": -297.1328,
+        "changePct": -0.44,
         "prevClose": 66889.0938,
         "contract": "Spot",
         "low52": 60074.2031,
@@ -232,9 +232,9 @@
         "name": "Ethereum",
         "symbol": "ETH-USD",
         "unit": "$",
-        "price": 2062.5442,
-        "change": 5.7124,
-        "changePct": 0.28,
+        "price": 2043.7386,
+        "change": -13.0931,
+        "changePct": -0.64,
         "prevClose": 2056.8318,
         "contract": "Spot",
         "low52": 1386.7993,
@@ -244,9 +244,9 @@
         "name": "Kaspa",
         "symbol": "KAS-USD",
         "unit": "$",
-        "price": 0.0311,
-        "change": -0.0001,
-        "changePct": -0.24,
+        "price": 0.0309,
+        "change": -0.0004,
+        "changePct": -1.19,
         "prevClose": 0.0312,
         "contract": "Spot",
         "low52": 0.0139,
@@ -256,9 +256,9 @@
         "name": "XRP",
         "symbol": "XRP-USD",
         "unit": "$",
-        "price": 1.3179,
-        "change": -0.0007,
-        "changePct": -0.05,
+        "price": 1.3173,
+        "change": -0.0013,
+        "changePct": -0.1,
         "prevClose": 1.3186,
         "contract": "Spot",
         "low52": 1.1335,
@@ -267,6 +267,13 @@
     }
   },
   "news": [
+    {
+      "source": "Brownfield",
+      "title": "Celebrating 35 years of USB with Byron Lemoine",
+      "link": "https://www.brownfieldagnews.com/managing-for_profit/celebrating-35-years-of-usb-with-byron-lemoine/",
+      "time": "",
+      "category": "news"
+    },
     {
       "source": "Brownfield",
       "title": "Missouri Senate approves bill extending ag, energy tax credits",
@@ -282,9 +289,16 @@
       "category": "news"
     },
     {
-      "source": "Brownfield",
-      "title": "Timely rains help southwest Missouri forage growth",
-      "link": "https://www.brownfieldagnews.com/news/timely-rains-help-southwest-missouri-forage-growth/",
+      "source": "AGDAILY",
+      "title": "Spring is coming earlier: How will that affect agriculture?",
+      "link": "https://www.agdaily.com/weather/spring-is-coming-earlier-how-will-that-affect-agriculture/",
+      "time": "",
+      "category": "news"
+    },
+    {
+      "source": "AGDAILY",
+      "title": "Do feds now lack resources to crack down on meatpackers?",
+      "link": "https://www.agdaily.com/livestock/do-feds-now-lack-resources-to-crack-down-on-meatpackers/",
       "time": "",
       "category": "news"
     },
@@ -292,20 +306,6 @@
       "source": "AGDAILY",
       "title": "Plant-based gels deliver protein and fiber power",
       "link": "https://www.agdaily.com/technology/plant-based-gels-deliver-protein-and-fiber-power/",
-      "time": "",
-      "category": "news"
-    },
-    {
-      "source": "AGDAILY",
-      "title": "State of the Farm report explores AI and digital trends in ag",
-      "link": "https://www.agdaily.com/news/state-of-the-farm-report-explores-ai-digital-trends-in-ag/",
-      "time": "",
-      "category": "news"
-    },
-    {
-      "source": "AGDAILY",
-      "title": "World\u2019s largest Idaho potato display marks America\u2019s 250th",
-      "link": "https://www.agdaily.com/crops/worlds-largest-idaho-potato-display-marks-americas-250th/",
       "time": "",
       "category": "news"
     },
