@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-03T13:16:16.827669+00:00",
+  "updated": "2026-04-03T14:39:05.448682+00:00",
   "markets": {
     "grains": {
       "corn": {
@@ -154,9 +154,9 @@
         "name": "US Dollar Index",
         "symbol": "DX-Y.NYB",
         "unit": "$",
-        "price": 100.074,
-        "change": 0.07,
-        "changePct": 0.07,
+        "price": 100.125,
+        "change": 0.121,
+        "changePct": 0.12,
         "prevClose": 100.004,
         "contract": "Spot",
         "low52": 95.55,
@@ -220,9 +220,9 @@
         "name": "Bitcoin",
         "symbol": "BTC-USD",
         "unit": "$",
-        "price": 66591.9609,
-        "change": -297.1328,
-        "changePct": -0.44,
+        "price": 66869.9531,
+        "change": -19.1406,
+        "changePct": -0.03,
         "prevClose": 66889.0938,
         "contract": "Spot",
         "low52": 60074.2031,
@@ -232,9 +232,9 @@
         "name": "Ethereum",
         "symbol": "ETH-USD",
         "unit": "$",
-        "price": 2043.7386,
-        "change": -13.0931,
-        "changePct": -0.64,
+        "price": 2051.1589,
+        "change": -5.6729,
+        "changePct": -0.28,
         "prevClose": 2056.8318,
         "contract": "Spot",
         "low52": 1386.7993,
@@ -244,9 +244,9 @@
         "name": "Kaspa",
         "symbol": "KAS-USD",
         "unit": "$",
-        "price": 0.0309,
-        "change": -0.0004,
-        "changePct": -1.19,
+        "price": 0.0311,
+        "change": -0.0001,
+        "changePct": -0.25,
         "prevClose": 0.0312,
         "contract": "Spot",
         "low52": 0.0139,
@@ -256,9 +256,9 @@
         "name": "XRP",
         "symbol": "XRP-USD",
         "unit": "$",
-        "price": 1.3173,
-        "change": -0.0013,
-        "changePct": -0.1,
+        "price": 1.3191,
+        "change": 0.0004,
+        "changePct": 0.03,
         "prevClose": 1.3186,
         "contract": "Spot",
         "low52": 1.1335,
@@ -269,22 +269,29 @@
   "news": [
     {
       "source": "Brownfield",
-      "title": "Celebrating 35 years of USB with Byron Lemoine",
-      "link": "https://www.brownfieldagnews.com/managing-for_profit/celebrating-35-years-of-usb-with-byron-lemoine/",
+      "title": "Fertilizer prices surge as Hormuz closure enters fifth week, analyst says",
+      "link": "https://www.brownfieldagnews.com/news/fertilizer-prices-surge-as-hormuz-closure-enters-fifth-week-analyst-says/",
       "time": "",
       "category": "news"
     },
     {
       "source": "Brownfield",
-      "title": "Missouri Senate approves bill extending ag, energy tax credits",
-      "link": "https://www.brownfieldagnews.com/news/missouri-senate-approves-bill-extending-ag-energy-tax-credits/",
+      "title": "Kansas decision on E15 draws criticism from corn leaders",
+      "link": "https://www.brownfieldagnews.com/news/kansas-decision-on-e15-draws-criticism-from-corn-leaders/",
       "time": "",
       "category": "news"
     },
     {
       "source": "Brownfield",
-      "title": "Veterinary grants, soyfoam bills signed by Governor Evers",
-      "link": "https://www.brownfieldagnews.com/news/veterinary-grants-soyfoam-bills-signed-by-governor-evers/",
+      "title": "Purdue economist: Financial risk grows for farmers heading into 2026 season",
+      "link": "https://www.brownfieldagnews.com/news/purdue-economist-financial-risk-grows-for-farmers-heading-into-2026-season/",
+      "time": "",
+      "category": "news"
+    },
+    {
+      "source": "AGDAILY",
+      "title": "Egg industry invests $1M to expand school breakfasts nationally",
+      "link": "https://www.agdaily.com/livestock/poultry/egg-industry-invests-1m-to-expand-school-breakfast-nationally/",
       "time": "",
       "category": "news"
     },
@@ -303,9 +310,16 @@
       "category": "news"
     },
     {
-      "source": "AGDAILY",
-      "title": "Plant-based gels deliver protein and fiber power",
-      "link": "https://www.agdaily.com/technology/plant-based-gels-deliver-protein-and-fiber-power/",
+      "source": "Agweek",
+      "title": "Wet April snow storms put livestock at risk",
+      "link": "https://www.agweek.com/livestock/wet-april-snow-storms-put-livestock-at-risk",
+      "time": "",
+      "category": "news"
+    },
+    {
+      "source": "Agweek",
+      "title": "Making sense of a market without conviction",
+      "link": "https://www.agweek.com/business/markets/making-sense-of-a-market-without-conviction",
       "time": "",
       "category": "news"
     },
@@ -313,20 +327,6 @@
       "source": "Agweek",
       "title": "Minnesota-made golden tractor that graced the White House lawn caught eye of billions",
       "link": "https://www.agweek.com/agribusiness/minnesota-made-golden-tractor-that-graced-the-white-house-lawn-caught-eye-of-billions",
-      "time": "",
-      "category": "news"
-    },
-    {
-      "source": "Agweek",
-      "title": "USDA wipes out $300M in funding to help beginning farmers access land",
-      "link": "https://www.agweek.com/news/policy/usda-wipes-out-300m-in-funding-to-help-beginning-farmers-access-land",
-      "time": "",
-      "category": "news"
-    },
-    {
-      "source": "Agweek",
-      "title": "Lidgerwood farmer takes first in ND state corn yield contest",
-      "link": "https://www.agweek.com/crops/corn/lidgerwood-farmer-takes-first-in-nd-state-corn-yield-contest",
       "time": "",
       "category": "news"
     }
