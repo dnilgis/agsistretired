@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-03T19:52:26.556734+00:00",
+  "updated": "2026-04-03T20:31:17.715169+00:00",
   "markets": {
     "grains": {
       "corn": {
@@ -154,9 +154,9 @@
         "name": "US Dollar Index",
         "symbol": "DX-Y.NYB",
         "unit": "$",
-        "price": 100.221,
-        "change": 0.217,
-        "changePct": 0.22,
+        "price": 100.187,
+        "change": 0.183,
+        "changePct": 0.18,
         "prevClose": 100.004,
         "contract": "Spot",
         "low52": 95.55,
@@ -220,9 +220,9 @@
         "name": "Bitcoin",
         "symbol": "BTC-USD",
         "unit": "$",
-        "price": 66870.2891,
-        "change": -18.8047,
-        "changePct": -0.03,
+        "price": 66862.875,
+        "change": -26.2188,
+        "changePct": -0.04,
         "prevClose": 66889.0938,
         "contract": "Spot",
         "low52": 60074.2031,
@@ -232,9 +232,9 @@
         "name": "Ethereum",
         "symbol": "ETH-USD",
         "unit": "$",
-        "price": 2052.7175,
-        "change": -4.1143,
-        "changePct": -0.2,
+        "price": 2052.3948,
+        "change": -4.437,
+        "changePct": -0.22,
         "prevClose": 2056.8318,
         "contract": "Spot",
         "low52": 1386.7993,
@@ -246,7 +246,7 @@
         "unit": "$",
         "price": 0.031,
         "change": -0.0002,
-        "changePct": -0.7,
+        "changePct": -0.71,
         "prevClose": 0.0312,
         "contract": "Spot",
         "low52": 0.0139,
@@ -256,9 +256,9 @@
         "name": "XRP",
         "symbol": "XRP-USD",
         "unit": "$",
-        "price": 1.3172,
-        "change": -0.0015,
-        "changePct": -0.11,
+        "price": 1.3175,
+        "change": -0.0012,
+        "changePct": -0.09,
         "prevClose": 1.3186,
         "contract": "Spot",
         "low52": 1.1335,
@@ -269,22 +269,22 @@
   "news": [
     {
       "source": "Brownfield",
+      "title": "Some Missouri producers are seeing early alfalfa weevil pressure",
+      "link": "https://www.brownfieldagnews.com/news/some-missouri-producers-are-seeing-early-alfalfa-weevil-pressure/",
+      "time": "",
+      "category": "news"
+    },
+    {
+      "source": "Brownfield",
+      "title": "A light round of direct cattle business on Friday",
+      "link": "https://www.brownfieldagnews.com/market-news/a-light-round-of-direct-cattle-business-on-friday/",
+      "time": "",
+      "category": "news"
+    },
+    {
+      "source": "Brownfield",
       "title": "The cool weather isn\u2019t over yet",
       "link": "https://www.brownfieldagnews.com/news/the-cool-weather-isnt-over-yet/",
-      "time": "",
-      "category": "news"
-    },
-    {
-      "source": "Brownfield",
-      "title": "South Dakota winter wheat crop at risk, even with recent rain",
-      "link": "https://www.brownfieldagnews.com/news/south-dakota-winter-wheat-crop-at-risk/",
-      "time": "",
-      "category": "news"
-    },
-    {
-      "source": "Brownfield",
-      "title": "Wisconsin survey seeks custom farming information",
-      "link": "https://www.brownfieldagnews.com/news/wisconsin-survey-seeks-custom-farming-information/",
       "time": "",
       "category": "news"
     },
