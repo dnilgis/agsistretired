@@ -1,10 +1,10 @@
 {
-  "generated": "2026-04-02T22:31:41.465194+00:00",
+  "generated": "2026-04-03T07:02:50.255079+00:00",
   "sources": [
     "farmbucks.com"
   ],
-  "locationCount": 63,
-  "bidCount": 110,
+  "locationCount": 73,
+  "bidCount": 130,
   "elevators": [
     {
       "elevator": "Nexus Cooperative",
@@ -351,6 +351,196 @@
         "corn": {
           "cashPrice": 4.54,
           "delivery": "May 2027"
+        }
+      }
+    },
+    {
+      "elevator": "Farmward Cooperative",
+      "city": "Farmward Cooperative - Clements",
+      "state": "MN",
+      "type": "coop",
+      "source": "farmbucks",
+      "lat": 44.392256,
+      "lng": -95.129444,
+      "bids": {
+        "corn": {
+          "cashPrice": 3.89,
+          "delivery": "April 2026"
+        },
+        "soy": {
+          "cashPrice": 10.74,
+          "delivery": "May 2026"
+        }
+      }
+    },
+    {
+      "elevator": "Farmward Cooperative",
+      "city": "Farmward Cooperative - Comfrey",
+      "state": "MN",
+      "type": "coop",
+      "source": "farmbucks",
+      "lat": 44.109558,
+      "lng": -94.901025,
+      "bids": {
+        "corn": {
+          "cashPrice": 3.89,
+          "delivery": "April 2026"
+        },
+        "soy": {
+          "cashPrice": 10.74,
+          "delivery": "May 2026"
+        }
+      }
+    },
+    {
+      "elevator": "Farmward Cooperative",
+      "city": "Farmward Cooperative - Danube East",
+      "state": "MN",
+      "type": "coop",
+      "source": "farmbucks",
+      "lat": 44.790634,
+      "lng": -95.087408,
+      "bids": {
+        "corn": {
+          "cashPrice": 3.92,
+          "delivery": "April 2026"
+        },
+        "soy": {
+          "cashPrice": 10.74,
+          "delivery": "May 2026"
+        }
+      }
+    },
+    {
+      "elevator": "Farmward Cooperative",
+      "city": "Farmward Cooperative - Morgan",
+      "state": "MN",
+      "type": "coop",
+      "source": "farmbucks",
+      "lat": 44.416917,
+      "lng": -94.931472,
+      "bids": {
+        "corn": {
+          "cashPrice": 4.02,
+          "delivery": "April 2026"
+        },
+        "soy": {
+          "cashPrice": 10.74,
+          "delivery": "May 2026"
+        }
+      }
+    },
+    {
+      "elevator": "Farmward Cooperative",
+      "city": "Farmward Cooperative - Morton",
+      "state": "MN",
+      "type": "coop",
+      "source": "farmbucks",
+      "lat": 44.549706,
+      "lng": -94.985126,
+      "bids": {
+        "corn": {
+          "cashPrice": 3.89,
+          "delivery": "April 2026"
+        },
+        "soy": {
+          "cashPrice": 10.74,
+          "delivery": "May 2026"
+        }
+      }
+    },
+    {
+      "elevator": "Farmward Cooperative",
+      "city": "Farmward Cooperative - Olivia",
+      "state": "MN",
+      "type": "coop",
+      "source": "farmbucks",
+      "lat": 44.776893,
+      "lng": -94.987372,
+      "bids": {
+        "corn": {
+          "cashPrice": 3.89,
+          "delivery": "April 2026"
+        },
+        "soy": {
+          "cashPrice": 10.74,
+          "delivery": "May 2026"
+        }
+      }
+    },
+    {
+      "elevator": "Farmward Cooperative",
+      "city": "Farmward Cooperative - Renville",
+      "state": "MN",
+      "type": "coop",
+      "source": "farmbucks",
+      "lat": 44.791988,
+      "lng": -95.210548,
+      "bids": {
+        "corn": {
+          "cashPrice": 3.97,
+          "delivery": "April 2026"
+        },
+        "soy": {
+          "cashPrice": 10.74,
+          "delivery": "May 2026"
+        }
+      }
+    },
+    {
+      "elevator": "Farmward Cooperative",
+      "city": "Farmward Cooperative - Sacred Heart",
+      "state": "MN",
+      "type": "coop",
+      "source": "farmbucks",
+      "lat": 44.788381,
+      "lng": -95.35115,
+      "bids": {
+        "corn": {
+          "cashPrice": 3.89,
+          "delivery": "April 2026"
+        },
+        "soy": {
+          "cashPrice": 10.74,
+          "delivery": "May 2026"
+        }
+      }
+    },
+    {
+      "elevator": "Farmward Cooperative",
+      "city": "Farmward Cooperative - Springfield",
+      "state": "MN",
+      "type": "coop",
+      "source": "farmbucks",
+      "lat": 44.245595,
+      "lng": -94.961874,
+      "bids": {
+        "corn": {
+          "cashPrice": 3.92,
+          "delivery": "April 2026"
+        },
+        "soy": {
+          "cashPrice": 10.74,
+          "delivery": "May 2026"
+        }
+      }
+    },
+    {
+      "elevator": "Farmward Cooperative",
+      "city": "Farmward Cooperative - Wood Lake",
+      "state": "MN",
+      "type": "coop",
+      "source": "farmbucks",
+      "lat": 44.650714,
+      "lng": -95.543617,
+      "bids": {
+        "corn": {
+          "cashPrice": 3.89,
+          "delivery": "April 2026"
+        },
+        "soy": {
+          "cashPrice": 10.74,
+          "delivery": "May 2026"
         }
       }
     },
