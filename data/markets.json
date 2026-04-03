@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-03T15:27:37.268862+00:00",
+  "updated": "2026-04-03T16:02:23.009687+00:00",
   "markets": {
     "grains": {
       "corn": {
@@ -10,7 +10,7 @@
         "change": -4.75,
         "changePct": -1.04,
         "prevClose": 457.0,
-        "contract": "May '26",
+        "contract": "Front Month",
         "low52": 368.75,
         "high52": 490.75
       },
@@ -34,7 +34,7 @@
         "change": -8.5,
         "changePct": -0.73,
         "prevClose": 1172.0,
-        "contract": "May '26",
+        "contract": "Front Month",
         "low52": 960.75,
         "high52": 1223.25
       },
@@ -58,7 +58,7 @@
         "change": -6.0,
         "changePct": -0.99,
         "prevClose": 604.25,
-        "contract": "May '26",
+        "contract": "Front Month",
         "low52": 492.25,
         "high52": 635.0
       },
@@ -70,7 +70,7 @@
         "change": -4.5,
         "changePct": -1.29,
         "prevClose": 350.0,
-        "contract": "May '26",
+        "contract": "Front Month",
         "low52": 272.0,
         "high52": 403.5
       }
@@ -154,9 +154,9 @@
         "name": "US Dollar Index",
         "symbol": "DX-Y.NYB",
         "unit": "$",
-        "price": 100.131,
-        "change": 0.127,
-        "changePct": 0.13,
+        "price": 100.161,
+        "change": 0.157,
+        "changePct": 0.16,
         "prevClose": 100.004,
         "contract": "Spot",
         "low52": 95.55,
@@ -172,7 +172,7 @@
         "change": 6.82,
         "changePct": 6.51,
         "prevClose": 104.72,
-        "contract": "May '26",
+        "contract": "Front Month",
         "low52": 54.98,
         "high52": 119.48
       },
@@ -184,7 +184,7 @@
         "change": -0.064,
         "changePct": -2.23,
         "prevClose": 2.864,
-        "contract": "May '26",
+        "contract": "Front Month",
         "low52": 2.622,
         "high52": 7.827
       }
@@ -220,9 +220,9 @@
         "name": "Bitcoin",
         "symbol": "BTC-USD",
         "unit": "$",
-        "price": 66909.4844,
-        "change": 20.3906,
-        "changePct": 0.03,
+        "price": 66837.7266,
+        "change": -51.3672,
+        "changePct": -0.08,
         "prevClose": 66889.0938,
         "contract": "Spot",
         "low52": 60074.2031,
@@ -232,9 +232,9 @@
         "name": "Ethereum",
         "symbol": "ETH-USD",
         "unit": "$",
-        "price": 2052.1855,
-        "change": -4.6462,
-        "changePct": -0.23,
+        "price": 2051.2925,
+        "change": -5.5393,
+        "changePct": -0.27,
         "prevClose": 2056.8318,
         "contract": "Spot",
         "low52": 1386.7993,
@@ -244,9 +244,9 @@
         "name": "Kaspa",
         "symbol": "KAS-USD",
         "unit": "$",
-        "price": 0.0311,
-        "change": -0.0001,
-        "changePct": -0.3,
+        "price": 0.0309,
+        "change": -0.0004,
+        "changePct": -1.21,
         "prevClose": 0.0312,
         "contract": "Spot",
         "low52": 0.0139,
@@ -256,9 +256,9 @@
         "name": "XRP",
         "symbol": "XRP-USD",
         "unit": "$",
-        "price": 1.3204,
-        "change": 0.0018,
-        "changePct": 0.14,
+        "price": 1.3189,
+        "change": 0.0003,
+        "changePct": 0.02,
         "prevClose": 1.3186,
         "contract": "Spot",
         "low52": 1.1335,
@@ -269,22 +269,22 @@
   "news": [
     {
       "source": "Brownfield",
+      "title": "\u201cSomething always comes through\u201d: Minnesota producer battles ongoing swine diseases",
+      "link": "https://www.brownfieldagnews.com/news/something-always-comes-through-minnesota-producer-battles-ongoing-swine-diseases/",
+      "time": "",
+      "category": "news"
+    },
+    {
+      "source": "Brownfield",
+      "title": "Axiota Animal Health to base global operations in Kansas",
+      "link": "https://www.brownfieldagnews.com/news/axiota-animal-health-to-base-global-operations-in-kansas/",
+      "time": "",
+      "category": "news"
+    },
+    {
+      "source": "Brownfield",
       "title": "Texas cattle producer says protecting the U.S. cattle herd is top priority as USDA weighs reopening border to Mexican cattle",
       "link": "https://www.brownfieldagnews.com/news/texas-cattle-producer-says-protecting-the-u-s-cattle-herd-is-top-priority-as-usda-weighs-reopening-border-to-mexican-cattle/",
-      "time": "",
-      "category": "news"
-    },
-    {
-      "source": "Brownfield",
-      "title": "Erratic spring weather keeps northern Iowa growers guessing",
-      "link": "https://www.brownfieldagnews.com/news/erratic-spring-weather-keeps-northern-iowa-growers-guessing/",
-      "time": "",
-      "category": "news"
-    },
-    {
-      "source": "Brownfield",
-      "title": "Some farmers making late seed decisions amid global uncertainty",
-      "link": "https://www.brownfieldagnews.com/news/some-farmers-making-late-seed-decisions-amid-global-uncertainty/",
       "time": "",
       "category": "news"
     },
