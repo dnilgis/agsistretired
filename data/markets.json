@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-03T10:50:10.937988+00:00",
+  "updated": "2026-04-03T11:41:14.687861+00:00",
   "markets": {
     "grains": {
       "corn": {
@@ -220,9 +220,9 @@
         "name": "Bitcoin",
         "symbol": "BTC-USD",
         "unit": "$",
-        "price": 66810.9844,
-        "change": -78.1094,
-        "changePct": -0.12,
+        "price": 66976.0078,
+        "change": 86.9141,
+        "changePct": 0.13,
         "prevClose": 66889.0938,
         "contract": "Spot",
         "low52": 60074.2031,
@@ -232,9 +232,9 @@
         "name": "Ethereum",
         "symbol": "ETH-USD",
         "unit": "$",
-        "price": 2057.8364,
-        "change": 1.0046,
-        "changePct": 0.05,
+        "price": 2062.5442,
+        "change": 5.7124,
+        "changePct": 0.28,
         "prevClose": 2056.8318,
         "contract": "Spot",
         "low52": 1386.7993,
@@ -246,7 +246,7 @@
         "unit": "$",
         "price": 0.0311,
         "change": -0.0001,
-        "changePct": -0.43,
+        "changePct": -0.24,
         "prevClose": 0.0312,
         "contract": "Spot",
         "low52": 0.0139,
@@ -256,9 +256,9 @@
         "name": "XRP",
         "symbol": "XRP-USD",
         "unit": "$",
-        "price": 1.3161,
-        "change": -0.0025,
-        "changePct": -0.19,
+        "price": 1.3179,
+        "change": -0.0007,
+        "changePct": -0.05,
         "prevClose": 1.3186,
         "contract": "Spot",
         "low52": 1.1335,
@@ -290,22 +290,22 @@
     },
     {
       "source": "AGDAILY",
+      "title": "Plant-based gels deliver protein and fiber power",
+      "link": "https://www.agdaily.com/technology/plant-based-gels-deliver-protein-and-fiber-power/",
+      "time": "",
+      "category": "news"
+    },
+    {
+      "source": "AGDAILY",
+      "title": "State of the Farm report explores AI and digital trends in ag",
+      "link": "https://www.agdaily.com/news/state-of-the-farm-report-explores-ai-digital-trends-in-ag/",
+      "time": "",
+      "category": "news"
+    },
+    {
+      "source": "AGDAILY",
       "title": "World\u2019s largest Idaho potato display marks America\u2019s 250th",
       "link": "https://www.agdaily.com/crops/worlds-largest-idaho-potato-display-marks-americas-250th/",
-      "time": "",
-      "category": "news"
-    },
-    {
-      "source": "AGDAILY",
-      "title": "Iowa bill poised to limit farms\u2019 liability for greenhouse gas emissions",
-      "link": "https://www.agdaily.com/crops/iowa-bill-would-limit-farms-liability-for-greenhouse-gas-emissions/",
-      "time": "",
-      "category": "news"
-    },
-    {
-      "source": "AGDAILY",
-      "title": "What $6 diesel will actually mean for American farmers",
-      "link": "https://www.agdaily.com/crops/what-6-diesel-will-actually-mean-for-american-farmers/",
       "time": "",
       "category": "news"
     },
