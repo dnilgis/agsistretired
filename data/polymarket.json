@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-10T05:11:39.582Z",
+  "updated": "2026-04-10T07:01:09.097Z",
   "totalMarkets": 8,
   "categories": {
     "tariffs": [
@@ -7,31 +7,31 @@
         "id": "0xbee2cd40473495f713c69b9dfbce9fc2837fa4011568222c83c83bb773e35053",
         "question": "Starmer out by June 30, 2026?",
         "pct": 26,
-        "volume": 1438968,
+        "volume": 1439051,
         "endDate": "2026-06-30T12:00:00Z",
         "slug": "starmer-out-in-2025"
       },
       {
         "id": "0x2bde6486e7067f48ee21344d8b5c1af458732536eb4d080932c88c3a7c2d2126",
         "question": "Starmer out by December 31, 2026?",
-        "pct": 51,
-        "volume": 925693,
+        "pct": 50,
+        "volume": 933441,
         "endDate": "2026-12-31T12:00:00Z",
         "slug": "starmer-out-in-2025"
       },
       {
         "id": "0xced0cb8725bad43d78fda0cd0e5fa9e31804625cb3502b2c7897f8e8f7fa9e1f",
         "question": "Kraken IPO by December 31, 2026?",
-        "pct": 37,
-        "volume": 413361,
+        "pct": 38,
+        "volume": 413366,
         "endDate": "2027-01-01T05:00:00Z",
         "slug": "kraken-ipo-in-2025"
       },
       {
         "id": "0xda5c517dd5b78c80dec8ceb08ca4f466317633487827d7290332b4851cc4a4fa",
         "question": "Macron out by June 30, 2026?",
-        "pct": 3,
-        "volume": 306268,
+        "pct": 2,
+        "volume": 307705,
         "endDate": "2026-06-30T12:00:00Z",
         "slug": "macron-out-in-2025"
       },
@@ -46,8 +46,8 @@
       {
         "id": "0xc6158282b574047044e504aabb1bc1f86ed28097e62d69425cb4403847767945",
         "question": "Starmer out by April 30, 2026?",
-        "pct": 1,
-        "volume": 181009,
+        "pct": 2,
+        "volume": 182246,
         "endDate": "2026-06-30T12:00:00Z",
         "slug": "starmer-out-in-2025"
       },
