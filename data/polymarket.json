@@ -1,13 +1,13 @@
 {
-  "updated": "2026-04-10T13:42:09.660Z",
+  "updated": "2026-04-10T14:37:37.598Z",
   "totalMarkets": 8,
   "categories": {
     "tariffs": [
       {
         "id": "0xbee2cd40473495f713c69b9dfbce9fc2837fa4011568222c83c83bb773e35053",
         "question": "Starmer out by June 30, 2026?",
-        "pct": 26,
-        "volume": 1439492,
+        "pct": 27,
+        "volume": 1444567,
         "endDate": "2026-06-30T12:00:00Z",
         "slug": "starmer-out-in-2025"
       },
@@ -31,7 +31,7 @@
         "id": "0xda5c517dd5b78c80dec8ceb08ca4f466317633487827d7290332b4851cc4a4fa",
         "question": "Macron out by June 30, 2026?",
         "pct": 2,
-        "volume": 307785,
+        "volume": 307985,
         "endDate": "2026-06-30T12:00:00Z",
         "slug": "macron-out-in-2025"
       },
@@ -47,7 +47,7 @@
         "id": "0xc6158282b574047044e504aabb1bc1f86ed28097e62d69425cb4403847767945",
         "question": "Starmer out by April 30, 2026?",
         "pct": 1,
-        "volume": 184313,
+        "volume": 184335,
         "endDate": "2026-06-30T12:00:00Z",
         "slug": "starmer-out-in-2025"
       },
