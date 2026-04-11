@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-11T02:56:13.660Z",
+  "updated": "2026-04-11T04:56:12.865Z",
   "totalMarkets": 8,
   "categories": {
     "tariffs": [
@@ -14,8 +14,8 @@
       {
         "id": "0x2bde6486e7067f48ee21344d8b5c1af458732536eb4d080932c88c3a7c2d2126",
         "question": "Starmer out by December 31, 2026?",
-        "pct": 53,
-        "volume": 938480,
+        "pct": 52,
+        "volume": 938499,
         "endDate": "2026-12-31T12:00:00Z",
         "slug": "starmer-out-in-2025"
       },
@@ -38,8 +38,8 @@
       {
         "id": "0xbca45186bc1f8ad2912f79f22c6e37c0946f6619bbfbd0f97ad93d9b525a6293",
         "question": "Ukraine recognizes Russian sovereignty over its territory by June 30, 2026?",
-        "pct": 5,
-        "volume": 202962,
+        "pct": 3,
+        "volume": 204371,
         "endDate": "2025-12-31T12:00:00Z",
         "slug": "ukraine-recognizes-russian-sovereignty-over-ukrainian-territory-in-2025"
       },
@@ -47,7 +47,7 @@
         "id": "0xc6158282b574047044e504aabb1bc1f86ed28097e62d69425cb4403847767945",
         "question": "Starmer out by April 30, 2026?",
         "pct": 1,
-        "volume": 185802,
+        "volume": 185978,
         "endDate": "2026-06-30T12:00:00Z",
         "slug": "starmer-out-in-2025"
       },
@@ -55,7 +55,7 @@
         "id": "0x6e6851f2698629795fa06869d961c986221a80cedcba10fbaf0ed220607cdada",
         "question": "China x India military clash by December 31, 2026?",
         "pct": 17,
-        "volume": 111337,
+        "volume": 111380,
         "endDate": "2026-12-31T12:00:00Z",
         "slug": "china-x-india-military-clash-by-december-31"
       },
