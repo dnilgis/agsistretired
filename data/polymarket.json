@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-11T18:50:53.132Z",
+  "updated": "2026-04-11T19:33:28.731Z",
   "totalMarkets": 8,
   "categories": {
     "tariffs": [
@@ -7,7 +7,7 @@
         "id": "0xbee2cd40473495f713c69b9dfbce9fc2837fa4011568222c83c83bb773e35053",
         "question": "Starmer out by June 30, 2026?",
         "pct": 25,
-        "volume": 1452690,
+        "volume": 1452748,
         "endDate": "2026-06-30T12:00:00Z",
         "slug": "starmer-out-in-2025"
       },
@@ -31,7 +31,7 @@
         "id": "0xda5c517dd5b78c80dec8ceb08ca4f466317633487827d7290332b4851cc4a4fa",
         "question": "Macron out by June 30, 2026?",
         "pct": 2,
-        "volume": 309127,
+        "volume": 309229,
         "endDate": "2026-06-30T12:00:00Z",
         "slug": "macron-out-in-2025"
       },
@@ -63,7 +63,7 @@
         "id": "0x6beb95a01147de25b24d3ffae7a43551f392da4235a62f058515c3e99d7af199",
         "question": "NATO/EU troops fighting in Ukraine in June 30, 2026?",
         "pct": 3,
-        "volume": 104632,
+        "volume": 104637,
         "endDate": "2025-12-31T12:00:00Z",
         "slug": "natoeu-troops-fighting-in-ukraine-in-2025"
       }
