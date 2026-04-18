@@ -1,5 +1,5 @@
 {
-  "generated": "2026-04-17T22:38:50.158896+00:00",
+  "generated": "2026-04-18T07:02:13.859343+00:00",
   "sources": [
     "farmbucks.com"
   ],
@@ -54,7 +54,7 @@
           "delivery": "May 2027"
         },
         "soy": {
-          "cashPrice": 11.22,
+          "cashPrice": 11.33,
           "delivery": "April 2026"
         }
       }
@@ -709,7 +709,7 @@
       "lng": -92.831246,
       "bids": {
         "soy": {
-          "cashPrice": 11.27,
+          "cashPrice": 11.32,
           "delivery": "May 2026"
         }
       }
