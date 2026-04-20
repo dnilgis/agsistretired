@@ -1,10 +1,10 @@
 {
-  "generated": "2026-04-20T17:03:50.610082+00:00",
+  "generated": "2026-04-20T19:05:13.123377+00:00",
   "sources": [
     "farmbucks.com"
   ],
-  "locationCount": 54,
-  "bidCount": 91,
+  "locationCount": 64,
+  "bidCount": 111,
   "elevators": [
     {
       "elevator": "Nexus Cooperative",
@@ -16,12 +16,12 @@
       "lng": null,
       "bids": {
         "corn": {
-          "cashPrice": 4.62,
+          "cashPrice": 4.61,
           "delivery": "May 2027"
         },
         "soy": {
-          "cashPrice": 11.0,
-          "delivery": "May 2027"
+          "cashPrice": 10.98,
+          "delivery": "May 2026"
         }
       }
     },
@@ -50,11 +50,11 @@
       "lng": -92.713925,
       "bids": {
         "corn": {
-          "cashPrice": 4.62,
+          "cashPrice": 4.61,
           "delivery": "May 2027"
         },
         "soy": {
-          "cashPrice": 11.33,
+          "cashPrice": 11.32,
           "delivery": "April 2026"
         }
       }
@@ -69,7 +69,7 @@
       "lng": -95.949912,
       "bids": {
         "soy": {
-          "cashPrice": 10.87,
+          "cashPrice": 10.86,
           "delivery": "Apr 1, 2026 \u2013 May 1, 2026"
         }
       }
@@ -99,11 +99,11 @@
       "lng": -93.57838,
       "bids": {
         "corn": {
-          "cashPrice": 4.52,
+          "cashPrice": 4.51,
           "delivery": "May 2027"
         },
         "soy": {
-          "cashPrice": 11.0,
+          "cashPrice": 10.98,
           "delivery": "May 2027"
         }
       }
@@ -133,7 +133,7 @@
       "lng": -96.364836,
       "bids": {
         "soy": {
-          "cashPrice": 10.85,
+          "cashPrice": 10.83,
           "delivery": "Apr 1, 2026 \u2013 May 1, 2026"
         }
       }
@@ -148,11 +148,11 @@
       "lng": -93.049212,
       "bids": {
         "corn": {
-          "cashPrice": 4.62,
+          "cashPrice": 4.61,
           "delivery": "May 2027"
         },
         "soy": {
-          "cashPrice": 10.95,
+          "cashPrice": 10.93,
           "delivery": "May 2027"
         }
       }
@@ -171,7 +171,7 @@
           "delivery": "April 2026"
         },
         "soy": {
-          "cashPrice": 10.99,
+          "cashPrice": 10.98,
           "delivery": "April 2026"
         }
       }
@@ -186,11 +186,11 @@
       "lng": -95.483861,
       "bids": {
         "corn": {
-          "cashPrice": 4.13,
+          "cashPrice": 4.12,
           "delivery": "Apr 1, 2026 \u2013 May 1, 2026"
         },
         "soy": {
-          "cashPrice": 10.88,
+          "cashPrice": 10.86,
           "delivery": "Apr 1, 2026 \u2013 May 1, 2026"
         }
       }
@@ -205,8 +205,46 @@
       "lng": -92.869324,
       "bids": {
         "soy": {
-          "cashPrice": 11.0,
-          "delivery": "May 2027"
+          "cashPrice": 10.98,
+          "delivery": "May 2026"
+        }
+      }
+    },
+    {
+      "elevator": "Farmward Cooperative",
+      "city": "Clements Grain Elevator",
+      "state": "MN",
+      "type": "coop",
+      "source": "farmbucks",
+      "lat": 44.39126,
+      "lng": -95.128414,
+      "bids": {
+        "corn": {
+          "cashPrice": 3.89,
+          "delivery": "April 2026"
+        },
+        "soy": {
+          "cashPrice": 10.76,
+          "delivery": "April 2026"
+        }
+      }
+    },
+    {
+      "elevator": "Farmward Cooperative",
+      "city": "Comfrey Grain Elevator",
+      "state": "MN",
+      "type": "coop",
+      "source": "farmbucks",
+      "lat": 44.109541,
+      "lng": -94.90117,
+      "bids": {
+        "corn": {
+          "cashPrice": 3.89,
+          "delivery": "April 2026"
+        },
+        "soy": {
+          "cashPrice": 10.76,
+          "delivery": "April 2026"
         }
       }
     },
@@ -220,7 +258,26 @@
       "lng": -93.530619,
       "bids": {
         "soy": {
-          "cashPrice": 11.07,
+          "cashPrice": 11.06,
+          "delivery": "April 2026"
+        }
+      }
+    },
+    {
+      "elevator": "Farmward Cooperative",
+      "city": "Danube Grain Elevator - East",
+      "state": "MN",
+      "type": "coop",
+      "source": "farmbucks",
+      "lat": 44.791721,
+      "lng": -95.093225,
+      "bids": {
+        "corn": {
+          "cashPrice": 3.92,
+          "delivery": "April 2026"
+        },
+        "soy": {
+          "cashPrice": 10.76,
           "delivery": "April 2026"
         }
       }
@@ -250,11 +307,11 @@
       "lng": -95.467499,
       "bids": {
         "corn": {
-          "cashPrice": 4.08,
+          "cashPrice": 4.07,
           "delivery": "Apr 1, 2026 \u2013 May 1, 2026"
         },
         "soy": {
-          "cashPrice": 10.87,
+          "cashPrice": 10.86,
           "delivery": "Apr 1, 2026 \u2013 May 1, 2026"
         }
       }
@@ -269,11 +326,11 @@
       "lng": -96.018158,
       "bids": {
         "corn": {
-          "cashPrice": 4.06,
+          "cashPrice": 4.05,
           "delivery": "Apr 1, 2026 \u2013 May 1, 2026"
         },
         "soy": {
-          "cashPrice": 10.87,
+          "cashPrice": 10.86,
           "delivery": "Apr 1, 2026 \u2013 May 1, 2026"
         }
       }
@@ -288,11 +345,11 @@
       "lng": -93.490911,
       "bids": {
         "corn": {
-          "cashPrice": 4.62,
+          "cashPrice": 4.61,
           "delivery": "May 2027"
         },
         "soy": {
-          "cashPrice": 11.07,
+          "cashPrice": 11.06,
           "delivery": "April 2026"
         }
       }
@@ -322,7 +379,7 @@
       "lng": -94.19881,
       "bids": {
         "corn": {
-          "cashPrice": 4.12,
+          "cashPrice": 4.11,
           "delivery": "May 2026"
         }
       }
@@ -352,11 +409,11 @@
       "lng": -95.320179,
       "bids": {
         "corn": {
-          "cashPrice": 4.13,
+          "cashPrice": 4.12,
           "delivery": "Apr 1, 2026 \u2013 May 1, 2026"
         },
         "soy": {
-          "cashPrice": 10.87,
+          "cashPrice": 10.86,
           "delivery": "Apr 1, 2026 \u2013 May 1, 2026"
         }
       }
@@ -371,11 +428,11 @@
       "lng": -96.368311,
       "bids": {
         "corn": {
-          "cashPrice": 4.08,
+          "cashPrice": 4.07,
           "delivery": "Apr 1, 2026 \u2013 May 1, 2026"
         },
         "soy": {
-          "cashPrice": 10.88,
+          "cashPrice": 10.86,
           "delivery": "Apr 13, 2026 \u2013 May 1, 2026"
         }
       }
@@ -390,11 +447,11 @@
       "lng": -95.193718,
       "bids": {
         "corn": {
-          "cashPrice": 4.09,
+          "cashPrice": 4.08,
           "delivery": "Apr 1, 2026 \u2013 May 1, 2026"
         },
         "soy": {
-          "cashPrice": 10.87,
+          "cashPrice": 10.86,
           "delivery": "Apr 1, 2026 \u2013 May 1, 2026"
         }
       }
@@ -409,11 +466,11 @@
       "lng": -92.972849,
       "bids": {
         "corn": {
-          "cashPrice": 4.52,
+          "cashPrice": 4.51,
           "delivery": "May 2027"
         },
         "soy": {
-          "cashPrice": 10.95,
+          "cashPrice": 10.93,
           "delivery": "May 2027"
         }
       }
@@ -428,11 +485,11 @@
       "lng": -92.503461,
       "bids": {
         "corn": {
-          "cashPrice": 4.62,
+          "cashPrice": 4.61,
           "delivery": "May 2027"
         },
         "soy": {
-          "cashPrice": 10.95,
+          "cashPrice": 10.93,
           "delivery": "May 2027"
         }
       }
@@ -447,11 +504,11 @@
       "lng": -93.062444,
       "bids": {
         "corn": {
-          "cashPrice": 4.67,
+          "cashPrice": 4.66,
           "delivery": "May 2027"
         },
         "soy": {
-          "cashPrice": 11.02,
+          "cashPrice": 11.01,
           "delivery": "May 2026"
         }
       }
@@ -466,11 +523,11 @@
       "lng": -96.098437,
       "bids": {
         "corn": {
-          "cashPrice": 4.13,
+          "cashPrice": 4.12,
           "delivery": "Apr 1, 2026 \u2013 May 1, 2026"
         },
         "soy": {
-          "cashPrice": 10.88,
+          "cashPrice": 10.86,
           "delivery": "Apr 1, 2026 \u2013 May 1, 2026"
         }
       }
@@ -485,12 +542,50 @@
       "lng": -95.363265,
       "bids": {
         "corn": {
-          "cashPrice": 4.13,
+          "cashPrice": 4.12,
           "delivery": "Apr 1, 2026 \u2013 May 1, 2026"
         },
         "soy": {
-          "cashPrice": 10.88,
+          "cashPrice": 10.86,
           "delivery": "Apr 1, 2026 \u2013 May 1, 2026"
+        }
+      }
+    },
+    {
+      "elevator": "Farmward Cooperative",
+      "city": "Morgan Grain Elevator &amp; Business Office",
+      "state": "MN",
+      "type": "coop",
+      "source": "farmbucks",
+      "lat": 44.416901,
+      "lng": -94.93143,
+      "bids": {
+        "corn": {
+          "cashPrice": 4.02,
+          "delivery": "April 2026"
+        },
+        "soy": {
+          "cashPrice": 10.76,
+          "delivery": "April 2026"
+        }
+      }
+    },
+    {
+      "elevator": "Farmward Cooperative",
+      "city": "Morton Grain Elevator",
+      "state": "MN",
+      "type": "coop",
+      "source": "farmbucks",
+      "lat": 44.549746,
+      "lng": -94.985134,
+      "bids": {
+        "corn": {
+          "cashPrice": 3.89,
+          "delivery": "April 2026"
+        },
+        "soy": {
+          "cashPrice": 10.76,
+          "delivery": "April 2026"
         }
       }
     },
@@ -504,11 +599,11 @@
       "lng": -94.875967,
       "bids": {
         "corn": {
-          "cashPrice": 4.13,
+          "cashPrice": 4.12,
           "delivery": "Apr 1, 2026 \u2013 May 1, 2026"
         },
         "soy": {
-          "cashPrice": 10.87,
+          "cashPrice": 10.86,
           "delivery": "Apr 1, 2026 \u2013 May 1, 2026"
         }
       }
@@ -523,12 +618,31 @@
       "lng": -93.087267,
       "bids": {
         "corn": {
-          "cashPrice": 4.67,
+          "cashPrice": 4.66,
           "delivery": "May 2027"
         },
         "soy": {
-          "cashPrice": 11.04,
+          "cashPrice": 11.03,
           "delivery": "May 2026"
+        }
+      }
+    },
+    {
+      "elevator": "Farmward Cooperative",
+      "city": "Olivia Grain Elevator",
+      "state": "MN",
+      "type": "coop",
+      "source": "farmbucks",
+      "lat": 44.776856,
+      "lng": -94.987443,
+      "bids": {
+        "corn": {
+          "cashPrice": 3.89,
+          "delivery": "April 2026"
+        },
+        "soy": {
+          "cashPrice": 10.76,
+          "delivery": "April 2026"
         }
       }
     },
@@ -557,12 +671,31 @@
       "lng": -95.711664,
       "bids": {
         "corn": {
-          "cashPrice": 4.08,
+          "cashPrice": 4.07,
           "delivery": "Apr 1, 2026 \u2013 May 1, 2026"
         },
         "soy": {
-          "cashPrice": 10.87,
+          "cashPrice": 10.86,
           "delivery": "Apr 1, 2026 \u2013 May 1, 2026"
+        }
+      }
+    },
+    {
+      "elevator": "Farmward Cooperative",
+      "city": "Renville Grain Elevator",
+      "state": "MN",
+      "type": "coop",
+      "source": "farmbucks",
+      "lat": 44.793508,
+      "lng": -95.210757,
+      "bids": {
+        "corn": {
+          "cashPrice": 3.97,
+          "delivery": "April 2026"
+        },
+        "soy": {
+          "cashPrice": 10.76,
+          "delivery": "April 2026"
         }
       }
     },
@@ -576,8 +709,46 @@
       "lng": -92.831246,
       "bids": {
         "soy": {
-          "cashPrice": 11.32,
+          "cashPrice": 11.31,
           "delivery": "May 2026"
+        }
+      }
+    },
+    {
+      "elevator": "Farmward Cooperative",
+      "city": "Sacred Heart Grain Elevator",
+      "state": "MN",
+      "type": "coop",
+      "source": "farmbucks",
+      "lat": 44.788479,
+      "lng": -95.350105,
+      "bids": {
+        "corn": {
+          "cashPrice": 3.89,
+          "delivery": "April 2026"
+        },
+        "soy": {
+          "cashPrice": 10.76,
+          "delivery": "April 2026"
+        }
+      }
+    },
+    {
+      "elevator": "Farmward Cooperative",
+      "city": "Springfield Grain &amp; Agronomy",
+      "state": "MN",
+      "type": "coop",
+      "source": "farmbucks",
+      "lat": 44.256403,
+      "lng": -94.916816,
+      "bids": {
+        "corn": {
+          "cashPrice": 3.92,
+          "delivery": "April 2026"
+        },
+        "soy": {
+          "cashPrice": 10.76,
+          "delivery": "April 2026"
         }
       }
     },
@@ -591,11 +762,11 @@
       "lng": -95.82809,
       "bids": {
         "corn": {
-          "cashPrice": 4.08,
+          "cashPrice": 4.07,
           "delivery": "Apr 1, 2026 \u2013 May 1, 2026"
         },
         "soy": {
-          "cashPrice": 10.87,
+          "cashPrice": 10.86,
           "delivery": "Apr 1, 2026 \u2013 May 1, 2026"
         }
       }
@@ -610,12 +781,31 @@
       "lng": -95.11108,
       "bids": {
         "corn": {
-          "cashPrice": 4.13,
+          "cashPrice": 4.12,
           "delivery": "Apr 1, 2026 \u2013 May 1, 2026"
         },
         "soy": {
-          "cashPrice": 10.87,
+          "cashPrice": 10.86,
           "delivery": "Apr 1, 2026 \u2013 May 1, 2026"
+        }
+      }
+    },
+    {
+      "elevator": "Farmward Cooperative",
+      "city": "Wood Lake Elevator",
+      "state": "MN",
+      "type": "coop",
+      "source": "farmbucks",
+      "lat": 44.650498,
+      "lng": -95.543531,
+      "bids": {
+        "corn": {
+          "cashPrice": 3.89,
+          "delivery": "April 2026"
+        },
+        "soy": {
+          "cashPrice": 10.76,
+          "delivery": "April 2026"
         }
       }
     },
@@ -629,11 +819,11 @@
       "lng": -95.574463,
       "bids": {
         "corn": {
-          "cashPrice": 4.13,
+          "cashPrice": 4.12,
           "delivery": "Apr 1, 2026 \u2013 May 1, 2026"
         },
         "soy": {
-          "cashPrice": 10.87,
+          "cashPrice": 10.86,
           "delivery": "Apr 1, 2026 \u2013 May 1, 2026"
         }
       }
@@ -712,11 +902,11 @@
           "delivery": "April 2026"
         },
         "soy": {
-          "cashPrice": 10.82,
+          "cashPrice": 10.81,
           "delivery": "April 2026"
         },
         "wheat": {
-          "cashPrice": 5.0,
+          "cashPrice": 4.98,
           "delivery": "April 2026                                              Chicago"
         }
       }
@@ -735,7 +925,7 @@
           "delivery": "April 2026"
         },
         "soy": {
-          "cashPrice": 10.82,
+          "cashPrice": 10.81,
           "delivery": "April 2026"
         }
       }
@@ -754,11 +944,11 @@
           "delivery": "April 2026"
         },
         "soy": {
-          "cashPrice": 10.82,
+          "cashPrice": 10.81,
           "delivery": "April 2026"
         },
         "wheat": {
-          "cashPrice": 5.0,
+          "cashPrice": 4.98,
           "delivery": "April 2026                                              Chicago"
         }
       }
@@ -792,11 +982,11 @@
           "delivery": "April 2026"
         },
         "soy": {
-          "cashPrice": 10.82,
+          "cashPrice": 10.81,
           "delivery": "April 2026"
         },
         "wheat": {
-          "cashPrice": 4.9,
+          "cashPrice": 4.88,
           "delivery": "April 2026                                              Chicago"
         }
       }
@@ -830,11 +1020,11 @@
           "delivery": "April 2026"
         },
         "soy": {
-          "cashPrice": 10.67,
+          "cashPrice": 10.66,
           "delivery": "April 2026"
         },
         "wheat": {
-          "cashPrice": 4.8,
+          "cashPrice": 4.78,
           "delivery": "April 2026                                              Chicago"
         }
       }
@@ -853,11 +1043,11 @@
           "delivery": "April 2026"
         },
         "soy": {
-          "cashPrice": 10.82,
+          "cashPrice": 10.81,
           "delivery": "April 2026"
         },
         "wheat": {
-          "cashPrice": 5.0,
+          "cashPrice": 4.98,
           "delivery": "April 2026                                              Chicago"
         }
       }
@@ -921,11 +1111,11 @@
           "delivery": "April 2026"
         },
         "soy": {
-          "cashPrice": 10.82,
+          "cashPrice": 10.81,
           "delivery": "April 2026"
         },
         "wheat": {
-          "cashPrice": 4.9,
+          "cashPrice": 4.88,
           "delivery": "April 2026                                              Chicago"
         }
       }
@@ -944,7 +1134,7 @@
           "delivery": "April 2026"
         },
         "soy": {
-          "cashPrice": 10.82,
+          "cashPrice": 10.81,
           "delivery": "April 2026"
         }
       }
