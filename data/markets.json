@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-20T21:12:09.796189+00:00",
+  "updated": "2026-04-20T22:03:26.128926+00:00",
   "markets": {
     "grains": {
       "corn": {
@@ -154,9 +154,9 @@
         "name": "US Dollar Index",
         "symbol": "DX-Y.NYB",
         "unit": "$",
-        "price": 98.055,
-        "change": -0.229,
-        "changePct": -0.23,
+        "price": 98.053,
+        "change": -0.231,
+        "changePct": -0.24,
         "prevClose": 98.284,
         "contract": "Spot",
         "low52": 95.55,
@@ -220,9 +220,9 @@
         "name": "Bitcoin",
         "symbol": "BTC-USD",
         "unit": "$",
-        "price": 75978.1484,
-        "change": 2162.9453,
-        "changePct": 2.93,
+        "price": 76092.1016,
+        "change": 2276.8984,
+        "changePct": 3.08,
         "prevClose": 73815.2031,
         "contract": "Spot",
         "low52": 60074.2031,
@@ -232,9 +232,9 @@
         "name": "Ethereum",
         "symbol": "ETH-USD",
         "unit": "$",
-        "price": 2323.26,
-        "change": 60.01,
-        "changePct": 2.65,
+        "price": 2325.0601,
+        "change": 61.8101,
+        "changePct": 2.73,
         "prevClose": 2263.25,
         "contract": "Spot",
         "low52": 1542.0004,
@@ -246,7 +246,7 @@
         "unit": "$",
         "price": 0.035,
         "change": 0.0008,
-        "changePct": 2.47,
+        "changePct": 2.27,
         "prevClose": 0.0342,
         "contract": "Spot",
         "low52": 0.0139,
@@ -256,9 +256,9 @@
         "name": "XRP",
         "symbol": "XRP-USD",
         "unit": "$",
-        "price": 1.4262,
-        "change": 0.0316,
-        "changePct": 2.27,
+        "price": 1.4308,
+        "change": 0.0362,
+        "changePct": 2.6,
         "prevClose": 1.3946,
         "contract": "Spot",
         "low52": 1.1335,
@@ -269,22 +269,22 @@
   "news": [
     {
       "source": "Brownfield",
+      "title": "Missouri farmers push soybean planting as corn, rice progress advances",
+      "link": "https://www.brownfieldagnews.com/news/missouri-farmers-push-soybean-planting-as-corn-rice-progress-advances/",
+      "time": "",
+      "category": "news"
+    },
+    {
+      "source": "Brownfield",
+      "title": "Fast rice planting in Arkansas comes with heavy drought challenges",
+      "link": "https://www.brownfieldagnews.com/news/fast-rice-planting-in-arkansas-comes-with-heavy-drought-challenges/",
+      "time": "",
+      "category": "news"
+    },
+    {
+      "source": "Brownfield",
       "title": "Minnesota crop progress edges ahead of average despite rain delays",
       "link": "https://www.brownfieldagnews.com/news/minnesota-crop-progress-edges-ahead-of-average-despite-rain-delays/",
-      "time": "",
-      "category": "news"
-    },
-    {
-      "source": "Brownfield",
-      "title": "Iowa corn planting surges to 14% as farmers hit the fields",
-      "link": "https://www.brownfieldagnews.com/news/iowa-corn-planting-surges-to-14-as-farmers-hit-the-fields/",
-      "time": "",
-      "category": "news"
-    },
-    {
-      "source": "Brownfield",
-      "title": "Wetness slowing Wisconsin field progress",
-      "link": "https://www.brownfieldagnews.com/news/wetness-slowing-wisconsin-field-progress/",
       "time": "",
       "category": "news"
     },
