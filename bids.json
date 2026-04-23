@@ -1,5 +1,5 @@
 {
-  "generated": "2026-04-22T22:48:17.652580+00:00",
+  "generated": "2026-04-23T07:45:18.508078+00:00",
   "sources": [
     "farmbucks.com"
   ],
@@ -152,8 +152,8 @@
           "delivery": "May 2027"
         },
         "soy": {
-          "cashPrice": 10.91,
-          "delivery": "May 2027"
+          "cashPrice": 10.9,
+          "delivery": "May 2026"
         }
       }
     },
@@ -470,8 +470,8 @@
           "delivery": "May 2027"
         },
         "soy": {
-          "cashPrice": 10.91,
-          "delivery": "May 2027"
+          "cashPrice": 10.9,
+          "delivery": "May 2026"
         }
       }
     },
@@ -489,8 +489,8 @@
           "delivery": "May 2027"
         },
         "soy": {
-          "cashPrice": 10.91,
-          "delivery": "May 2027"
+          "cashPrice": 10.9,
+          "delivery": "May 2026"
         }
       }
     },
@@ -918,7 +918,7 @@
           "delivery": "April 2026"
         },
         "wheat": {
-          "cashPrice": 4.99,
+          "cashPrice": 5.02,
           "delivery": "April 2026                                              Chicago"
         }
       }
@@ -960,7 +960,7 @@
           "delivery": "April 2026"
         },
         "wheat": {
-          "cashPrice": 4.99,
+          "cashPrice": 5.02,
           "delivery": "April 2026                                              Chicago"
         }
       }
@@ -1002,7 +1002,7 @@
           "delivery": "April 2026"
         },
         "wheat": {
-          "cashPrice": 4.89,
+          "cashPrice": 4.92,
           "delivery": "April 2026                                              Chicago"
         }
       }
@@ -1048,7 +1048,7 @@
           "delivery": "April 2026"
         },
         "wheat": {
-          "cashPrice": 4.79,
+          "cashPrice": 4.82,
           "delivery": "April 2026                                              Chicago"
         }
       }
@@ -1071,7 +1071,7 @@
           "delivery": "April 2026"
         },
         "wheat": {
-          "cashPrice": 4.99,
+          "cashPrice": 5.02,
           "delivery": "April 2026                                              Chicago"
         }
       }
@@ -1151,7 +1151,7 @@
           "delivery": "April 2026"
         },
         "wheat": {
-          "cashPrice": 4.89,
+          "cashPrice": 4.92,
           "delivery": "April 2026                                              Chicago"
         }
       }
