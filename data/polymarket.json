@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-26T11:55:21.075Z",
+  "updated": "2026-04-26T13:03:59.311Z",
   "totalMarkets": 8,
   "categories": {
     "tariffs": [
@@ -7,15 +7,15 @@
         "id": "0xc6158282b574047044e504aabb1bc1f86ed28097e62d69425cb4403847767945",
         "question": "Starmer out by April 30, 2026?",
         "pct": 1,
-        "volume": 4518959,
+        "volume": 4534029,
         "endDate": "2026-06-30T12:00:00Z",
         "slug": "starmer-out-in-2025"
       },
       {
         "id": "0xbee2cd40473495f713c69b9dfbce9fc2837fa4011568222c83c83bb773e35053",
         "question": "Starmer out by June 30, 2026?",
-        "pct": 47,
-        "volume": 1842104,
+        "pct": 45,
+        "volume": 1845025,
         "endDate": "2026-06-30T12:00:00Z",
         "slug": "starmer-out-in-2025"
       },
@@ -23,15 +23,15 @@
         "id": "0x2bde6486e7067f48ee21344d8b5c1af458732536eb4d080932c88c3a7c2d2126",
         "question": "Starmer out by December 31, 2026?",
         "pct": 71,
-        "volume": 1191421,
+        "volume": 1191476,
         "endDate": "2026-12-31T12:00:00Z",
         "slug": "starmer-out-in-2025"
       },
       {
         "id": "0xced0cb8725bad43d78fda0cd0e5fa9e31804625cb3502b2c7897f8e8f7fa9e1f",
         "question": "Kraken IPO by December 31, 2026?",
-        "pct": 59,
-        "volume": 500551,
+        "pct": 58,
+        "volume": 500554,
         "endDate": "2027-01-01T05:00:00Z",
         "slug": "kraken-ipo-in-2025"
       },
@@ -54,8 +54,8 @@
       {
         "id": "0x575e86314d77231f25c16834b4f501221f215399a79fa6f5760b0a1eb7f1e5d3",
         "question": "Starmer out by May 15, 2026?",
-        "pct": 16,
-        "volume": 329517,
+        "pct": 14,
+        "volume": 330022,
         "endDate": "2026-06-30T12:00:00Z",
         "slug": "starmer-out-in-2025"
       },
@@ -63,7 +63,7 @@
         "id": "0x6e6851f2698629795fa06869d961c986221a80cedcba10fbaf0ed220607cdada",
         "question": "China x India military clash by December 31, 2026?",
         "pct": 14,
-        "volume": 119785,
+        "volume": 119889,
         "endDate": "2026-12-31T12:00:00Z",
         "slug": "china-x-india-military-clash-by-december-31"
       }
