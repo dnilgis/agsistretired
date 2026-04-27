@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-27T12:10:36.207Z",
+  "updated": "2026-04-27T14:26:08.725Z",
   "totalMarkets": 8,
   "categories": {
     "tariffs": [
@@ -7,15 +7,15 @@
         "id": "0xc6158282b574047044e504aabb1bc1f86ed28097e62d69425cb4403847767945",
         "question": "Starmer out by April 30, 2026?",
         "pct": 1,
-        "volume": 4655347,
+        "volume": 4664486,
         "endDate": "2026-06-30T12:00:00Z",
         "slug": "starmer-out-in-2025"
       },
       {
         "id": "0xbee2cd40473495f713c69b9dfbce9fc2837fa4011568222c83c83bb773e35053",
         "question": "Starmer out by June 30, 2026?",
-        "pct": 40,
-        "volume": 1855284,
+        "pct": 41,
+        "volume": 1856714,
         "endDate": "2026-06-30T12:00:00Z",
         "slug": "starmer-out-in-2025"
       },
@@ -23,15 +23,15 @@
         "id": "0x2bde6486e7067f48ee21344d8b5c1af458732536eb4d080932c88c3a7c2d2126",
         "question": "Starmer out by December 31, 2026?",
         "pct": 69,
-        "volume": 1209827,
+        "volume": 1210311,
         "endDate": "2026-12-31T12:00:00Z",
         "slug": "starmer-out-in-2025"
       },
       {
         "id": "0xced0cb8725bad43d78fda0cd0e5fa9e31804625cb3502b2c7897f8e8f7fa9e1f",
         "question": "Kraken IPO by December 31, 2026?",
-        "pct": 73,
-        "volume": 504803,
+        "pct": 74,
+        "volume": 505101,
         "endDate": "2027-01-01T05:00:00Z",
         "slug": "kraken-ipo-in-2025"
       },
@@ -39,9 +39,17 @@
         "id": "0xbca45186bc1f8ad2912f79f22c6e37c0946f6619bbfbd0f97ad93d9b525a6293",
         "question": "Ukraine recognizes Russian sovereignty over its territory by June 30, 2026?",
         "pct": 2,
-        "volume": 364922,
+        "volume": 365038,
         "endDate": "2025-12-31T12:00:00Z",
         "slug": "ukraine-recognizes-russian-sovereignty-over-ukrainian-territory-in-2025"
+      },
+      {
+        "id": "0x575e86314d77231f25c16834b4f501221f215399a79fa6f5760b0a1eb7f1e5d3",
+        "question": "Starmer out by May 15, 2026?",
+        "pct": 16,
+        "volume": 347777,
+        "endDate": "2026-06-30T12:00:00Z",
+        "slug": "starmer-out-in-2025"
       },
       {
         "id": "0xda5c517dd5b78c80dec8ceb08ca4f466317633487827d7290332b4851cc4a4fa",
@@ -50,14 +58,6 @@
         "volume": 343871,
         "endDate": "2026-06-30T12:00:00Z",
         "slug": "macron-out-in-2025"
-      },
-      {
-        "id": "0x575e86314d77231f25c16834b4f501221f215399a79fa6f5760b0a1eb7f1e5d3",
-        "question": "Starmer out by May 15, 2026?",
-        "pct": 16,
-        "volume": 342280,
-        "endDate": "2026-06-30T12:00:00Z",
-        "slug": "starmer-out-in-2025"
       },
       {
         "id": "0x6e6851f2698629795fa06869d961c986221a80cedcba10fbaf0ed220607cdada",
